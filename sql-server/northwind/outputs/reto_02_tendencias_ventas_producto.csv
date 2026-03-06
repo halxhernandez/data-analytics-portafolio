@@ -1,0 +1,1163 @@
+Year,Month,CategoryName,ProductName,MonthlyRevenue,MonthlyOrders,PrevMonthRevenue,RevenueGrowthPct,RunningRevenueByProduct,RevenueRankInCategory,Top3Flag,TrendAlert
+1996,8,Beverages,Chai,777.6,2,NULL,NULL,777.6,3,TOP 3,NULL
+1996,9,Beverages,Chai,288,1,777.6,-62.96,1065.6,5,NULL,SHARP DECLINE
+1996,11,Beverages,Chai,356.4,2,288,23.75,1422,4,NULL,GROWING
+1996,12,Beverages,Chai,183.6,1,356.4,-48.48,1605.6,7,NULL,SHARP DECLINE
+1997,1,Beverages,Chai,489.6,2,183.6,166.67,2095.2,4,NULL,GROWING
+1997,3,Beverages,Chai,216,1,489.6,-55.88,2311.2,9,NULL,SHARP DECLINE
+1997,4,Beverages,Chai,576,1,216,166.67,2887.2,4,NULL,GROWING
+1997,5,Beverages,Chai,122.4,1,576,-78.75,3009.6,7,NULL,SHARP DECLINE
+1997,6,Beverages,Chai,180,1,122.4,47.06,3189.6,5,NULL,GROWING
+1997,7,Beverages,Chai,522,3,180,190,3711.6,4,NULL,GROWING
+1997,8,Beverages,Chai,652.5,2,522,25,4364.1,3,TOP 3,GROWING
+1997,10,Beverages,Chai,1084.5,3,652.5,66.21,5448.6,3,TOP 3,GROWING
+1997,11,Beverages,Chai,1044,2,1084.5,-3.73,6492.6,1,TOP 3,DECLINING
+1998,1,Beverages,Chai,1206,2,1044,15.52,7698.6,5,NULL,STABLE
+1998,2,Beverages,Chai,1548,4,1206,28.36,9246.6,3,TOP 3,GROWING
+1998,3,Beverages,Chai,1188,2,1548,-23.26,10434.6,5,NULL,SHARP DECLINE
+1998,4,Beverages,Chai,1741.5,7,1188,46.59,12176.1,7,NULL,GROWING
+1998,5,Beverages,Chai,612,1,1741.5,-64.86,12788.1,3,TOP 3,SHARP DECLINE
+1996,7,Beverages,Chang,1444,3,NULL,NULL,1444,1,TOP 3,NULL
+1996,9,Beverages,Chang,608,1,1444,-57.89,2052,4,NULL,SHARP DECLINE
+1996,10,Beverages,Chang,680.96,3,608,12,2732.96,5,NULL,STABLE
+1996,12,Beverages,Chang,285,1,680.96,-58.15,3017.96,5,NULL,SHARP DECLINE
+1997,1,Beverages,Chang,912,1,285,220,3929.96,3,TOP 3,GROWING
+1997,2,Beverages,Chang,733.4,2,912,-19.58,4663.36,2,TOP 3,DECLINING
+1997,3,Beverages,Chang,790.4,2,733.4,7.77,5453.76,3,TOP 3,STABLE
+1997,4,Beverages,Chang,228,1,790.4,-71.15,5681.76,7,NULL,SHARP DECLINE
+1997,7,Beverages,Chang,190,1,228,-16.67,5871.76,7,NULL,DECLINING
+1997,8,Beverages,Chang,1871.5,3,190,885,7743.26,1,TOP 3,GROWING
+1997,10,Beverages,Chang,579.5,3,1871.5,-69.04,8322.76,5,NULL,SHARP DECLINE
+1997,11,Beverages,Chang,228,1,579.5,-60.66,8550.76,6,NULL,SHARP DECLINE
+1997,12,Beverages,Chang,1505.75,4,228,560.42,10056.51,3,TOP 3,GROWING
+1998,1,Beverages,Chang,1127.65,5,1505.75,-25.11,11184.16,6,NULL,SHARP DECLINE
+1998,2,Beverages,Chang,1059.25,3,1127.65,-6.07,12243.41,5,NULL,DECLINING
+1998,3,Beverages,Chang,161.5,1,1059.25,-84.75,12404.91,11,NULL,SHARP DECLINE
+1998,4,Beverages,Chang,2949.75,5,161.5,1726.47,15354.66,2,TOP 3,GROWING
+1998,5,Beverages,Chang,1001.3,4,2949.75,-66.05,16355.96,2,TOP 3,SHARP DECLINE
+1996,7,Beverages,Chartreuse verte,691.2,2,NULL,NULL,691.2,2,TOP 3,NULL
+1996,9,Beverages,Chartreuse verte,1252.8,2,691.2,81.25,1944,2,TOP 3,GROWING
+1996,10,Beverages,Chartreuse verte,57.6,1,1252.8,-95.4,2001.6,7,NULL,SHARP DECLINE
+1996,11,Beverages,Chartreuse verte,1311.84,2,57.6,2177.5,3313.44,2,TOP 3,GROWING
+1996,12,Beverages,Chartreuse verte,244.8,1,1311.84,-81.34,3558.24,6,NULL,SHARP DECLINE
+1997,2,Beverages,Chartreuse verte,374.4,2,244.8,52.94,3932.64,3,TOP 3,GROWING
+1997,3,Beverages,Chartreuse verte,216,1,374.4,-42.31,4148.64,9,NULL,SHARP DECLINE
+1997,4,Beverages,Chartreuse verte,180,1,216,-16.67,4328.64,8,NULL,DECLINING
+1997,6,Beverages,Chartreuse verte,180,1,180,0,4508.64,5,NULL,STABLE
+1997,7,Beverages,Chartreuse verte,90,1,180,-50,4598.64,9,NULL,SHARP DECLINE
+1997,8,Beverages,Chartreuse verte,643.5,2,90,615,5242.14,4,NULL,GROWING
+1997,9,Beverages,Chartreuse verte,367.2,2,643.5,-42.94,5609.34,4,NULL,SHARP DECLINE
+1997,12,Beverages,Chartreuse verte,2424.6,3,367.2,560.29,8033.94,2,TOP 3,GROWING
+1998,1,Beverages,Chartreuse verte,1026,3,2424.6,-57.68,9059.94,7,NULL,SHARP DECLINE
+1998,2,Beverages,Chartreuse verte,2300.4,3,1026,124.21,11360.34,2,TOP 3,GROWING
+1998,3,Beverages,Chartreuse verte,540,1,2300.4,-76.53,11900.34,9,NULL,SHARP DECLINE
+1998,5,Beverages,Chartreuse verte,394.2,2,540,-27,12294.54,5,NULL,SHARP DECLINE
+1996,10,Beverages,Côte de Blaye,4005.2,1,NULL,NULL,4005.2,1,TOP 3,NULL
+1996,11,Beverages,Côte de Blaye,14545.2,3,4005.2,263.16,18550.4,1,TOP 3,GROWING
+1996,12,Beverages,Côte de Blaye,6324,1,14545.2,-56.52,24874.4,1,TOP 3,SHARP DECLINE
+1997,1,Beverages,Côte de Blaye,18803.36,2,6324,197.33,43677.76,1,TOP 3,GROWING
+1997,3,Beverages,Côte de Blaye,6324,1,18803.36,-66.37,50001.76,1,TOP 3,SHARP DECLINE
+1997,4,Beverages,Côte de Blaye,3952.5,1,6324,-37.5,53954.26,1,TOP 3,SHARP DECLINE
+1997,5,Beverages,Côte de Blaye,8853.6,2,3952.5,124,62807.86,1,TOP 3,GROWING
+1997,7,Beverages,Côte de Blaye,3754.88,1,8853.6,-57.59,66562.74,1,TOP 3,SHARP DECLINE
+1997,9,Beverages,Côte de Blaye,3557.25,1,3754.88,-5.26,70119.99,1,TOP 3,DECLINING
+1997,12,Beverages,Côte de Blaye,3952.5,2,3557.25,11.11,74072.49,1,TOP 3,STABLE
+1998,1,Beverages,Côte de Blaye,18049.75,4,3952.5,356.67,92122.24,1,TOP 3,GROWING
+1998,2,Beverages,Côte de Blaye,25559.5,2,18049.75,41.61,117681.74,1,TOP 3,GROWING
+1998,3,Beverages,Côte de Blaye,17127.5,2,25559.5,-32.99,134809.24,1,TOP 3,SHARP DECLINE
+1998,4,Beverages,Côte de Blaye,6587.5,1,17127.5,-61.54,141396.74,1,TOP 3,SHARP DECLINE
+1996,7,Beverages,Guaraná Fantástica,146.7,2,NULL,NULL,146.7,6,NULL,NULL
+1996,8,Beverages,Guaraná Fantástica,141.84,4,146.7,-3.31,288.54,7,NULL,DECLINING
+1996,11,Beverages,Guaraná Fantástica,160.2,3,141.84,12.94,448.74,6,NULL,STABLE
+1996,12,Beverages,Guaraná Fantástica,108,2,160.2,-32.58,556.74,9,NULL,SHARP DECLINE
+1997,2,Beverages,Guaraná Fantástica,64.8,1,108,-40,621.54,9,NULL,SHARP DECLINE
+1997,3,Beverages,Guaraná Fantástica,464.4,3,64.8,616.67,1085.94,6,NULL,GROWING
+1997,4,Beverages,Guaraná Fantástica,159.75,4,464.4,-65.6,1245.69,9,NULL,SHARP DECLINE
+1997,5,Beverages,Guaraná Fantástica,141.75,1,159.75,-11.27,1387.44,6,NULL,DECLINING
+1997,6,Beverages,Guaraná Fantástica,166.05,2,141.75,17.14,1553.49,6,NULL,STABLE
+1997,7,Beverages,Guaraná Fantástica,126,1,166.05,-24.12,1679.49,8,NULL,SHARP DECLINE
+1997,8,Beverages,Guaraná Fantástica,93.38,3,126,-25.89,1772.87,8,NULL,SHARP DECLINE
+1997,10,Beverages,Guaraná Fantástica,247.5,2,93.38,165.06,2020.37,9,NULL,GROWING
+1997,12,Beverages,Guaraná Fantástica,166.5,2,247.5,-32.73,2186.87,8,NULL,SHARP DECLINE
+1998,1,Beverages,Guaraná Fantástica,135,1,166.5,-18.92,2321.87,10,NULL,DECLINING
+1998,2,Beverages,Guaraná Fantástica,650.25,5,135,381.67,2972.12,8,NULL,GROWING
+1998,3,Beverages,Guaraná Fantástica,888.75,6,650.25,36.68,3860.87,7,NULL,GROWING
+1998,4,Beverages,Guaraná Fantástica,553.5,8,888.75,-37.72,4414.37,9,NULL,SHARP DECLINE
+1998,5,Beverages,Guaraná Fantástica,90,1,553.5,-83.74,4504.37,6,NULL,SHARP DECLINE
+1996,8,Beverages,Ipoh Coffee,1472,2,NULL,NULL,1472,2,TOP 3,NULL
+1996,9,Beverages,Ipoh Coffee,2060.8,3,1472,40,3532.8,1,TOP 3,GROWING
+1996,10,Beverages,Ipoh Coffee,1398.4,1,2060.8,-32.14,4931.2,2,TOP 3,SHARP DECLINE
+1997,2,Beverages,Ipoh Coffee,736,1,1398.4,-47.37,5667.2,1,TOP 3,SHARP DECLINE
+1997,3,Beverages,Ipoh Coffee,662.4,2,736,-10,6329.6,4,NULL,DECLINING
+1997,4,Beverages,Ipoh Coffee,586.5,1,662.4,-11.46,6916.1,3,TOP 3,DECLINING
+1997,5,Beverages,Ipoh Coffee,3910,2,586.5,566.67,10826.1,2,TOP 3,GROWING
+1997,8,Beverages,Ipoh Coffee,920,1,3910,-76.47,11746.1,2,TOP 3,SHARP DECLINE
+1997,9,Beverages,Ipoh Coffee,276,1,920,-70,12022.1,6,NULL,SHARP DECLINE
+1997,10,Beverages,Ipoh Coffee,2944,2,276,966.67,14966.1,1,TOP 3,GROWING
+1997,12,Beverages,Ipoh Coffee,1035,1,2944,-64.84,16001.1,4,NULL,SHARP DECLINE
+1998,1,Beverages,Ipoh Coffee,1748,4,1035,68.89,17749.1,2,TOP 3,GROWING
+1998,3,Beverages,Ipoh Coffee,1886,4,1748,7.89,19635.1,3,TOP 3,STABLE
+1998,4,Beverages,Ipoh Coffee,2484,2,1886,31.71,22119.1,3,TOP 3,GROWING
+1998,5,Beverages,Ipoh Coffee,1407.6,1,2484,-43.33,23526.7,1,TOP 3,SHARP DECLINE
+1996,7,Beverages,Lakkalikööri,183.6,1,NULL,NULL,183.6,5,NULL,NULL
+1996,8,Beverages,Lakkalikööri,451.44,1,183.6,145.88,635.04,4,NULL,GROWING
+1996,10,Beverages,Lakkalikööri,734.4,3,451.44,62.68,1369.44,4,NULL,GROWING
+1996,11,Beverages,Lakkalikööri,172.8,1,734.4,-76.47,1542.24,5,NULL,SHARP DECLINE
+1996,12,Beverages,Lakkalikööri,504,1,172.8,191.67,2046.24,4,NULL,GROWING
+1997,1,Beverages,Lakkalikööri,417.6,2,504,-17.14,2463.84,5,NULL,DECLINING
+1997,2,Beverages,Lakkalikööri,220.32,1,417.6,-47.24,2684.16,5,NULL,SHARP DECLINE
+1997,3,Beverages,Lakkalikööri,514.08,1,220.32,133.33,3198.24,5,NULL,GROWING
+1997,5,Beverages,Lakkalikööri,900,1,514.08,75.07,4098.24,4,NULL,GROWING
+1997,6,Beverages,Lakkalikööri,1152,4,900,28,5250.24,1,TOP 3,GROWING
+1997,7,Beverages,Lakkalikööri,1659.6,3,1152,44.06,6909.84,2,TOP 3,GROWING
+1997,8,Beverages,Lakkalikööri,630,1,1659.6,-62.04,7539.84,5,NULL,SHARP DECLINE
+1997,9,Beverages,Lakkalikööri,180,1,630,-71.43,7719.84,7,NULL,SHARP DECLINE
+1997,10,Beverages,Lakkalikööri,805.5,2,180,347.5,8525.34,4,NULL,GROWING
+1997,11,Beverages,Lakkalikööri,900,3,805.5,11.73,9425.34,2,TOP 3,STABLE
+1998,1,Beverages,Lakkalikööri,1408.5,3,900,56.5,10833.84,3,TOP 3,GROWING
+1998,2,Beverages,Lakkalikööri,180,1,1408.5,-87.22,11013.84,10,NULL,SHARP DECLINE
+1998,3,Beverages,Lakkalikööri,2502,5,180,1290,13515.84,2,TOP 3,GROWING
+1998,4,Beverages,Lakkalikööri,2214,3,2502,-11.51,15729.84,5,NULL,DECLINING
+1998,5,Beverages,Lakkalikööri,30.6,1,2214,-98.62,15760.44,8,NULL,SHARP DECLINE
+1996,8,Beverages,Laughing Lumberjack Lager,42,1,NULL,NULL,42,8,NULL,NULL
+1997,4,Beverages,Laughing Lumberjack Lager,420,1,42,900,462,5,NULL,GROWING
+1997,5,Beverages,Laughing Lumberjack Lager,98,1,420,-76.67,560,9,NULL,SHARP DECLINE
+1997,9,Beverages,Laughing Lumberjack Lager,350,1,98,257.14,910,5,NULL,GROWING
+1997,12,Beverages,Laughing Lumberjack Lager,42,1,350,-88,952,10,NULL,SHARP DECLINE
+1998,2,Beverages,Laughing Lumberjack Lager,420,2,42,900,1372,9,NULL,GROWING
+1998,3,Beverages,Laughing Lumberjack Lager,744.8,2,420,77.33,2116.8,8,NULL,GROWING
+1998,4,Beverages,Laughing Lumberjack Lager,280,1,744.8,-62.41,2396.8,10,NULL,SHARP DECLINE
+1996,7,Beverages,Outback Lager,429,2,NULL,NULL,429,3,TOP 3,NULL
+1996,9,Beverages,Outback Lager,660,3,429,53.85,1089,3,TOP 3,GROWING
+1996,12,Beverages,Outback Lager,720,2,660,9.09,1809,3,TOP 3,STABLE
+1997,1,Beverages,Outback Lager,86.4,1,720,-88,1895.4,6,NULL,SHARP DECLINE
+1997,2,Beverages,Outback Lager,270,1,86.4,212.5,2165.4,4,NULL,GROWING
+1997,3,Beverages,Outback Lager,792,2,270,193.33,2957.4,2,TOP 3,GROWING
+1997,4,Beverages,Outback Lager,279,2,792,-64.77,3236.4,6,NULL,SHARP DECLINE
+1997,5,Beverages,Outback Lager,105,1,279,-62.37,3341.4,8,NULL,SHARP DECLINE
+1997,7,Beverages,Outback Lager,213.75,1,105,103.57,3555.15,6,NULL,GROWING
+1997,8,Beverages,Outback Lager,468.75,2,213.75,119.3,4023.9,7,NULL,GROWING
+1997,9,Beverages,Outback Lager,570,1,468.75,21.6,4593.9,2,TOP 3,GROWING
+1997,10,Beverages,Outback Lager,1558.5,4,570,173.42,6152.4,2,TOP 3,GROWING
+1997,11,Beverages,Outback Lager,600,1,1558.5,-61.5,6752.4,3,TOP 3,SHARP DECLINE
+1997,12,Beverages,Outback Lager,525,1,600,-12.5,7277.4,6,NULL,DECLINING
+1998,1,Beverages,Outback Lager,1372.5,7,525,161.43,8649.9,4,NULL,GROWING
+1998,2,Beverages,Outback Lager,1083.75,3,1372.5,-21.04,9733.65,4,NULL,SHARP DECLINE
+1998,4,Beverages,Outback Lager,939,5,1083.75,-13.36,10672.65,8,NULL,DECLINING
+1996,8,Beverages,Rhönbräu Klosterbier,260.4,3,NULL,NULL,260.4,5,NULL,NULL
+1996,9,Beverages,Rhönbräu Klosterbier,62,1,260.4,-76.19,322.4,7,NULL,SHARP DECLINE
+1996,10,Beverages,Rhönbräu Klosterbier,310,1,62,400,632.4,6,NULL,GROWING
+1996,11,Beverages,Rhönbräu Klosterbier,106.02,2,310,-65.8,738.42,7,NULL,SHARP DECLINE
+1997,2,Beverages,Rhönbräu Klosterbier,152.52,2,106.02,43.86,890.94,7,NULL,GROWING
+1997,3,Beverages,Rhönbräu Klosterbier,285.2,2,152.52,86.99,1176.14,8,NULL,GROWING
+1997,4,Beverages,Rhönbräu Klosterbier,638.6,2,285.2,123.91,1814.74,2,TOP 3,GROWING
+1997,5,Beverages,Rhönbräu Klosterbier,232.5,1,638.6,-63.59,2047.24,5,NULL,SHARP DECLINE
+1997,6,Beverages,Rhönbräu Klosterbier,887.38,5,232.5,281.67,2934.61,2,TOP 3,GROWING
+1997,7,Beverages,Rhönbräu Klosterbier,496,2,887.38,-44.1,3430.61,5,NULL,SHARP DECLINE
+1997,8,Beverages,Rhönbräu Klosterbier,71.3,2,496,-85.63,3501.91,9,NULL,SHARP DECLINE
+1997,9,Beverages,Rhönbräu Klosterbier,426.25,2,71.3,497.83,3928.16,3,TOP 3,GROWING
+1997,10,Beverages,Rhönbräu Klosterbier,325.5,1,426.25,-23.64,4253.66,8,NULL,SHARP DECLINE
+1997,11,Beverages,Rhönbräu Klosterbier,155,1,325.5,-52.38,4408.66,7,NULL,SHARP DECLINE
+1997,12,Beverages,Rhönbräu Klosterbier,815.3,5,155,426,5223.96,5,NULL,GROWING
+1998,1,Beverages,Rhönbräu Klosterbier,155,1,815.3,-80.99,5378.96,9,NULL,SHARP DECLINE
+1998,2,Beverages,Rhönbräu Klosterbier,992,2,155,540,6370.96,6,NULL,GROWING
+1998,3,Beverages,Rhönbräu Klosterbier,1543.03,9,992,55.55,7913.99,4,NULL,GROWING
+1998,4,Beverages,Rhönbräu Klosterbier,232.5,1,1543.03,-84.93,8146.49,11,NULL,SHARP DECLINE
+1998,5,Beverages,Rhönbräu Klosterbier,31,1,232.5,-86.67,8177.49,7,NULL,SHARP DECLINE
+1996,8,Beverages,Sasquatch Ale,224,1,NULL,NULL,224,6,NULL,NULL
+1996,9,Beverages,Sasquatch Ale,156.8,1,224,-30,380.8,6,NULL,SHARP DECLINE
+1996,11,Beverages,Sasquatch Ale,509.6,2,156.8,225,890.4,3,TOP 3,GROWING
+1996,12,Beverages,Sasquatch Ale,112,1,509.6,-78.02,1002.4,8,NULL,SHARP DECLINE
+1997,2,Beverages,Sasquatch Ale,179.2,1,112,60,1181.6,6,NULL,GROWING
+1997,3,Beverages,Sasquatch Ale,372.4,1,179.2,107.81,1554,7,NULL,GROWING
+1997,5,Beverages,Sasquatch Ale,105,1,372.4,-71.8,1659,8,NULL,SHARP DECLINE
+1997,6,Beverages,Sasquatch Ale,560,1,105,433.33,2219,3,TOP 3,GROWING
+1997,10,Beverages,Sasquatch Ale,330.4,2,560,-41,2549.4,7,NULL,SHARP DECLINE
+1997,11,Beverages,Sasquatch Ale,420,1,330.4,27.12,2969.4,5,NULL,GROWING
+1997,12,Beverages,Sasquatch Ale,140,1,420,-66.67,3109.4,9,NULL,SHARP DECLINE
+1998,2,Beverages,Sasquatch Ale,140,1,140,0,3249.4,11,NULL,STABLE
+1998,3,Beverages,Sasquatch Ale,280,1,140,100,3529.4,10,NULL,GROWING
+1998,4,Beverages,Sasquatch Ale,2331,3,280,732.5,5860.4,4,NULL,GROWING
+1998,5,Beverages,Sasquatch Ale,490,1,2331,-78.98,6350.4,4,NULL,SHARP DECLINE
+1996,7,Beverages,Steeleye Stout,288,1,NULL,NULL,288,4,NULL,NULL
+1996,8,Beverages,Steeleye Stout,1497.6,2,288,420,1785.6,1,TOP 3,GROWING
+1996,10,Beverages,Steeleye Stout,1000.8,2,1497.6,-33.17,2786.4,3,TOP 3,SHARP DECLINE
+1996,12,Beverages,Steeleye Stout,950.4,2,1000.8,-5.04,3736.8,2,TOP 3,DECLINING
+1997,1,Beverages,Steeleye Stout,1195.2,2,950.4,25.76,4932,2,TOP 3,GROWING
+1997,2,Beverages,Steeleye Stout,115.2,1,1195.2,-90.36,5047.2,8,NULL,SHARP DECLINE
+1997,4,Beverages,Steeleye Stout,54,1,115.2,-53.12,5101.2,10,NULL,SHARP DECLINE
+1997,5,Beverages,Steeleye Stout,954,3,54,1666.67,6055.2,3,TOP 3,GROWING
+1997,6,Beverages,Steeleye Stout,360,1,954,-62.26,6415.2,4,NULL,SHARP DECLINE
+1997,7,Beverages,Steeleye Stout,837,3,360,132.5,7252.2,3,TOP 3,GROWING
+1997,8,Beverages,Steeleye Stout,486,1,837,-41.94,7738.2,6,NULL,SHARP DECLINE
+1997,10,Beverages,Steeleye Stout,499.5,2,486,2.78,8237.7,6,NULL,STABLE
+1997,11,Beverages,Steeleye Stout,504,1,499.5,0.9,8741.7,4,NULL,STABLE
+1997,12,Beverages,Steeleye Stout,270,1,504,-46.43,9011.7,7,NULL,SHARP DECLINE
+1998,1,Beverages,Steeleye Stout,1017,4,270,276.67,10028.7,8,NULL,GROWING
+1998,2,Beverages,Steeleye Stout,666,3,1017,-34.51,10694.7,7,NULL,SHARP DECLINE
+1998,3,Beverages,Steeleye Stout,900,2,666,35.14,11594.7,6,NULL,GROWING
+1998,4,Beverages,Steeleye Stout,2049.3,4,900,127.7,13644,6,NULL,GROWING
+1996,8,Condiments,Aniseed Syrup,240,1,NULL,NULL,240,5,NULL,NULL
+1997,1,Condiments,Aniseed Syrup,400,1,240,66.67,640,4,NULL,GROWING
+1997,3,Condiments,Aniseed Syrup,144,1,400,-64,784,5,NULL,SHARP DECLINE
+1997,5,Condiments,Aniseed Syrup,600,1,144,316.67,1384,5,NULL,GROWING
+1997,7,Condiments,Aniseed Syrup,140,1,600,-76.67,1524,7,NULL,SHARP DECLINE
+1997,10,Condiments,Aniseed Syrup,60,1,140,-57.14,1584,9,NULL,SHARP DECLINE
+1997,11,Condiments,Aniseed Syrup,200,1,60,233.33,1784,7,NULL,GROWING
+1997,12,Condiments,Aniseed Syrup,180,1,200,-10,1964,8,NULL,DECLINING
+1998,1,Condiments,Aniseed Syrup,790,2,180,338.89,2754,2,TOP 3,GROWING
+1998,4,Condiments,Aniseed Syrup,250,1,790,-68.35,3004,9,NULL,SHARP DECLINE
+1998,5,Condiments,Aniseed Syrup,40,1,250,-84,3044,4,NULL,SHARP DECLINE
+1996,9,Condiments,Chef Anton's Cajun Seasoning,352,1,NULL,NULL,352,4,NULL,NULL
+1996,10,Condiments,Chef Anton's Cajun Seasoning,883.52,3,352,151,1235.52,2,TOP 3,GROWING
+1996,11,Condiments,Chef Anton's Cajun Seasoning,616,1,883.52,-30.28,1851.52,3,TOP 3,SHARP DECLINE
+1997,3,Condiments,Chef Anton's Cajun Seasoning,225.28,1,616,-63.43,2076.8,3,TOP 3,SHARP DECLINE
+1997,4,Condiments,Chef Anton's Cajun Seasoning,935,1,225.28,315.04,3011.8,4,NULL,GROWING
+1997,5,Condiments,Chef Anton's Cajun Seasoning,2035,2,935,117.65,5046.8,1,TOP 3,GROWING
+1997,7,Condiments,Chef Anton's Cajun Seasoning,352,1,2035,-82.7,5398.8,5,NULL,SHARP DECLINE
+1997,8,Condiments,Chef Anton's Cajun Seasoning,748,2,352,112.5,6146.8,2,TOP 3,GROWING
+1997,9,Condiments,Chef Anton's Cajun Seasoning,237.6,1,748,-68.24,6384.4,5,NULL,SHARP DECLINE
+1997,10,Condiments,Chef Anton's Cajun Seasoning,132,1,237.6,-44.44,6516.4,7,NULL,SHARP DECLINE
+1997,11,Condiments,Chef Anton's Cajun Seasoning,550,1,132,316.67,7066.4,3,TOP 3,GROWING
+1998,1,Condiments,Chef Anton's Cajun Seasoning,462,1,550,-16,7528.4,6,NULL,DECLINING
+1998,2,Condiments,Chef Anton's Cajun Seasoning,495,1,462,7.14,8023.4,6,NULL,STABLE
+1998,3,Condiments,Chef Anton's Cajun Seasoning,110,1,495,-77.78,8133.4,8,NULL,SHARP DECLINE
+1998,4,Condiments,Chef Anton's Cajun Seasoning,412.5,1,110,275,8545.9,8,NULL,GROWING
+1998,5,Condiments,Chef Anton's Cajun Seasoning,22,1,412.5,-94.67,8567.9,5,NULL,SHARP DECLINE
+1996,7,Condiments,Chef Anton's Gumbo Mix,1047.2,2,NULL,NULL,1047.2,1,TOP 3,NULL
+1996,8,Condiments,Chef Anton's Gumbo Mix,340,1,1047.2,-67.53,1387.2,3,TOP 3,SHARP DECLINE
+1996,12,Condiments,Chef Anton's Gumbo Mix,544,1,340,60,1931.2,1,TOP 3,GROWING
+1997,8,Condiments,Chef Anton's Gumbo Mix,288.23,1,544,-47.02,2219.43,6,NULL,SHARP DECLINE
+1997,10,Condiments,Chef Anton's Gumbo Mix,85.4,1,288.23,-70.37,2304.83,8,NULL,SHARP DECLINE
+1998,1,Condiments,Chef Anton's Gumbo Mix,640.5,1,85.4,650,2945.33,5,NULL,GROWING
+1998,3,Condiments,Chef Anton's Gumbo Mix,427,1,640.5,-33.33,3372.33,6,NULL,SHARP DECLINE
+1998,4,Condiments,Chef Anton's Gumbo Mix,1974.88,2,427,362.5,5347.2,2,TOP 3,GROWING
+1996,8,Condiments,Genen Shouyu,248,1,NULL,NULL,248,4,NULL,NULL
+1996,10,Condiments,Genen Shouyu,62,1,248,-75,310,5,NULL,SHARP DECLINE
+1997,4,Condiments,Genen Shouyu,176.7,1,62,185,486.7,6,NULL,GROWING
+1997,6,Condiments,Genen Shouyu,155,1,176.7,-12.28,641.7,5,NULL,DECLINING
+1997,7,Condiments,Genen Shouyu,368.13,1,155,137.5,1009.82,4,NULL,GROWING
+1997,9,Condiments,Genen Shouyu,775,1,368.13,110.53,1784.82,3,TOP 3,GROWING
+1996,9,Condiments,Grandma's Boysenberry Spread,600,1,NULL,NULL,600,1,TOP 3,NULL
+1996,10,Condiments,Grandma's Boysenberry Spread,120,1,600,-80,720,4,NULL,SHARP DECLINE
+1997,8,Condiments,Grandma's Boysenberry Spread,1750,1,120,1358.33,2470,1,TOP 3,GROWING
+1997,11,Condiments,Grandma's Boysenberry Spread,750,1,1750,-57.14,3220,2,TOP 3,SHARP DECLINE
+1998,1,Condiments,Grandma's Boysenberry Spread,150,1,750,-80,3370,9,NULL,SHARP DECLINE
+1998,2,Condiments,Grandma's Boysenberry Spread,1187.5,1,150,691.67,4557.5,4,NULL,GROWING
+1998,3,Condiments,Grandma's Boysenberry Spread,2180,4,1187.5,83.58,6737.5,2,TOP 3,GROWING
+1998,5,Condiments,Grandma's Boysenberry Spread,399.5,2,2180,-81.67,7137,1,TOP 3,SHARP DECLINE
+1996,8,Condiments,Gula Malacca,908.3,3,NULL,NULL,908.3,1,TOP 3,NULL
+1996,11,Condiments,Gula Malacca,1133.82,1,908.3,24.83,2042.12,2,TOP 3,GROWING
+1997,1,Condiments,Gula Malacca,496,1,1133.82,-56.25,2538.12,2,TOP 3,SHARP DECLINE
+1997,2,Condiments,Gula Malacca,1472.5,1,496,196.88,4010.62,2,TOP 3,GROWING
+1997,3,Condiments,Gula Malacca,223.98,2,1472.5,-84.79,4234.6,4,NULL,SHARP DECLINE
+1997,4,Condiments,Gula Malacca,175.05,1,223.98,-21.84,4409.65,7,NULL,SHARP DECLINE
+1997,5,Condiments,Gula Malacca,778,1,175.05,344.44,5187.65,3,TOP 3,GROWING
+1997,6,Condiments,Gula Malacca,602.95,2,778,-22.5,5790.6,1,TOP 3,SHARP DECLINE
+1997,8,Condiments,Gula Malacca,194.5,1,602.95,-67.74,5985.1,7,NULL,SHARP DECLINE
+1997,9,Condiments,Gula Malacca,898.59,2,194.5,362,6883.69,1,TOP 3,GROWING
+1997,10,Condiments,Gula Malacca,1390.67,2,898.59,54.76,8274.36,2,TOP 3,GROWING
+1997,11,Condiments,Gula Malacca,311.2,1,1390.67,-77.62,8585.56,6,NULL,SHARP DECLINE
+1997,12,Condiments,Gula Malacca,194.5,1,311.2,-37.5,8780.06,7,NULL,SHARP DECLINE
+1998,1,Condiments,Gula Malacca,248.96,1,194.5,28,9029.02,8,NULL,GROWING
+1998,3,Condiments,Gula Malacca,361.77,2,248.96,45.31,9390.79,7,NULL,GROWING
+1998,4,Condiments,Gula Malacca,525.15,2,361.77,45.16,9915.94,6,NULL,GROWING
+1996,7,Condiments,Louisiana Fiery Hot Pepper Sauce,550.2,2,NULL,NULL,550.2,2,TOP 3,NULL
+1996,9,Condiments,Louisiana Fiery Hot Pepper Sauce,453.6,1,550.2,-17.56,1003.8,2,TOP 3,DECLINING
+1996,10,Condiments,Louisiana Fiery Hot Pepper Sauce,672,1,453.6,48.15,1675.8,3,TOP 3,GROWING
+1996,11,Condiments,Louisiana Fiery Hot Pepper Sauce,495.6,3,672,-26.25,2171.4,4,NULL,SHARP DECLINE
+1996,12,Condiments,Louisiana Fiery Hot Pepper Sauce,302.4,1,495.6,-38.98,2473.8,3,TOP 3,SHARP DECLINE
+1997,1,Condiments,Louisiana Fiery Hot Pepper Sauce,336,1,302.4,11.11,2809.8,6,NULL,STABLE
+1997,2,Condiments,Louisiana Fiery Hot Pepper Sauce,1011.36,2,336,201,3821.16,3,TOP 3,GROWING
+1997,4,Condiments,Louisiana Fiery Hot Pepper Sauce,1468.75,3,1011.36,45.23,5289.91,1,TOP 3,GROWING
+1997,5,Condiments,Louisiana Fiery Hot Pepper Sauce,682.02,1,1468.75,-53.56,5971.93,4,NULL,SHARP DECLINE
+1997,6,Condiments,Louisiana Fiery Hot Pepper Sauce,599.92,1,682.02,-12.04,6571.85,2,TOP 3,DECLINING
+1997,7,Condiments,Louisiana Fiery Hot Pepper Sauce,202.08,1,599.92,-66.32,6773.93,6,NULL,SHARP DECLINE
+1997,8,Condiments,Louisiana Fiery Hot Pepper Sauce,442.05,1,202.08,118.75,7215.98,4,NULL,GROWING
+1997,9,Condiments,Louisiana Fiery Hot Pepper Sauce,731.49,3,442.05,65.48,7947.47,4,NULL,GROWING
+1997,10,Condiments,Louisiana Fiery Hot Pepper Sauce,1299.84,1,731.49,77.7,9247.31,3,TOP 3,GROWING
+1997,11,Condiments,Louisiana Fiery Hot Pepper Sauce,1041.97,2,1299.84,-19.84,10289.28,1,TOP 3,DECLINING
+1997,12,Condiments,Louisiana Fiery Hot Pepper Sauce,1557.7,2,1041.97,49.49,11846.98,1,TOP 3,GROWING
+1998,1,Condiments,Louisiana Fiery Hot Pepper Sauce,268.39,1,1557.7,-82.77,12115.37,7,NULL,SHARP DECLINE
+1998,2,Condiments,Louisiana Fiery Hot Pepper Sauce,1312.47,4,268.39,389.02,13427.84,1,TOP 3,GROWING
+1998,4,Condiments,Louisiana Fiery Hot Pepper Sauce,442.05,1,1312.47,-66.32,13869.89,7,NULL,SHARP DECLINE
+1996,9,Condiments,Louisiana Hot Spiced Okra,408,1,NULL,NULL,408,3,TOP 3,NULL
+1997,2,Condiments,Louisiana Hot Spiced Okra,816,1,408,100,1224,4,NULL,GROWING
+1997,3,Condiments,Louisiana Hot Spiced Okra,693.6,1,816,-15,1917.6,1,TOP 3,DECLINING
+1997,4,Condiments,Louisiana Hot Spiced Okra,122.4,1,693.6,-82.35,2040,8,NULL,SHARP DECLINE
+1997,5,Condiments,Louisiana Hot Spiced Okra,408,1,122.4,233.33,2448,6,NULL,GROWING
+1997,9,Condiments,Louisiana Hot Spiced Okra,68,1,408,-83.33,2516,6,NULL,SHARP DECLINE
+1997,12,Condiments,Louisiana Hot Spiced Okra,850,1,68,1150,3366,4,NULL,GROWING
+1998,5,Condiments,Louisiana Hot Spiced Okra,17,1,850,-98,3383,6,NULL,SHARP DECLINE
+1996,11,Condiments,Northwoods Cranberry Sauce,3920,2,NULL,NULL,3920,1,TOP 3,NULL
+1997,4,Condiments,Northwoods Cranberry Sauce,1300,2,3920,-66.84,5220,2,TOP 3,SHARP DECLINE
+1997,10,Condiments,Northwoods Cranberry Sauce,2000,2,1300,53.85,7220,1,TOP 3,GROWING
+1997,12,Condiments,Northwoods Cranberry Sauce,960,1,2000,-52,8180,3,TOP 3,SHARP DECLINE
+1998,1,Condiments,Northwoods Cranberry Sauce,800,1,960,-16.67,8980,1,TOP 3,DECLINING
+1998,2,Condiments,Northwoods Cranberry Sauce,1200,1,800,50,10180,3,TOP 3,GROWING
+1998,3,Condiments,Northwoods Cranberry Sauce,1320,2,1200,10,11500,3,TOP 3,STABLE
+1998,4,Condiments,Northwoods Cranberry Sauce,1200,1,1320,-9.09,12700,4,NULL,DECLINING
+1998,5,Condiments,Northwoods Cranberry Sauce,72,1,1200,-94,12772,3,TOP 3,SHARP DECLINE
+1996,7,Condiments,Original Frankfurter grüne Soße,280.8,2,NULL,NULL,280.8,3,TOP 3,NULL
+1996,8,Condiments,Original Frankfurter grüne Soße,104,1,280.8,-62.96,384.8,6,NULL,SHARP DECLINE
+1996,11,Condiments,Original Frankfurter grüne Soße,124.8,2,104,20,509.6,5,NULL,STABLE
+1996,12,Condiments,Original Frankfurter grüne Soße,145.6,1,124.8,16.67,655.2,4,NULL,STABLE
+1997,1,Condiments,Original Frankfurter grüne Soße,452.4,2,145.6,210.71,1107.6,3,TOP 3,GROWING
+1997,2,Condiments,Original Frankfurter grüne Soße,514.8,1,452.4,13.79,1622.4,5,NULL,STABLE
+1997,3,Condiments,Original Frankfurter grüne Soße,358.28,2,514.8,-30.4,1980.68,2,TOP 3,SHARP DECLINE
+1997,4,Condiments,Original Frankfurter grüne Soße,312,2,358.28,-12.92,2292.68,5,NULL,DECLINING
+1997,5,Condiments,Original Frankfurter grüne Soße,123.5,1,312,-60.42,2416.18,7,NULL,SHARP DECLINE
+1997,6,Condiments,Original Frankfurter grüne Soße,234,1,123.5,89.47,2650.18,4,NULL,GROWING
+1997,7,Condiments,Original Frankfurter grüne Soße,1049.75,3,234,348.61,3699.93,2,TOP 3,GROWING
+1997,8,Condiments,Original Frankfurter grüne Soße,341.25,1,1049.75,-67.49,4041.18,5,NULL,SHARP DECLINE
+1997,9,Condiments,Original Frankfurter grüne Soße,864.5,1,341.25,153.33,4905.68,2,TOP 3,GROWING
+1997,10,Condiments,Original Frankfurter grüne Soße,292.5,1,864.5,-66.17,5198.18,6,NULL,SHARP DECLINE
+1997,11,Condiments,Original Frankfurter grüne Soße,23.4,1,292.5,-92,5221.58,8,NULL,SHARP DECLINE
+1997,12,Condiments,Original Frankfurter grüne Soße,195,1,23.4,733.33,5416.58,6,NULL,GROWING
+1998,1,Condiments,Original Frankfurter grüne Soße,651.3,4,195,234,6067.88,4,NULL,GROWING
+1998,2,Condiments,Original Frankfurter grüne Soße,845,2,651.3,29.74,6912.88,5,NULL,GROWING
+1998,3,Condiments,Original Frankfurter grüne Soße,910,3,845,7.69,7822.88,4,NULL,STABLE
+1998,4,Condiments,Original Frankfurter grüne Soße,1013.35,4,910,11.36,8836.23,5,NULL,STABLE
+1998,5,Condiments,Original Frankfurter grüne Soße,335.4,2,1013.35,-66.9,9171.63,2,TOP 3,SHARP DECLINE
+1997,1,Condiments,Sirop d'érable,364.8,1,NULL,NULL,364.8,5,NULL,NULL
+1997,2,Condiments,Sirop d'érable,2314.2,2,364.8,534.38,2679,1,TOP 3,GROWING
+1997,4,Condiments,Sirop d'érable,1054.5,2,2314.2,-54.43,3733.5,3,TOP 3,SHARP DECLINE
+1997,5,Condiments,Sirop d'érable,826.5,2,1054.5,-21.62,4560,2,TOP 3,SHARP DECLINE
+1997,7,Condiments,Sirop d'érable,2565,1,826.5,210.34,7125,1,TOP 3,GROWING
+1997,8,Condiments,Sirop d'érable,456,1,2565,-82.22,7581,3,TOP 3,SHARP DECLINE
+1997,10,Condiments,Sirop d'érable,427.5,2,456,-6.25,8008.5,5,NULL,DECLINING
+1997,11,Condiments,Sirop d'érable,513,1,427.5,20,8521.5,4,NULL,STABLE
+1997,12,Condiments,Sirop d'érable,570,1,513,11.11,9091.5,5,NULL,STABLE
+1998,1,Condiments,Sirop d'érable,726.75,1,570,27.5,9818.25,3,TOP 3,GROWING
+1998,2,Condiments,Sirop d'érable,1254,3,726.75,72.55,11072.25,2,TOP 3,GROWING
+1998,3,Condiments,Sirop d'érable,855,1,1254,-31.82,11927.25,5,NULL,SHARP DECLINE
+1998,4,Condiments,Sirop d'érable,2425.35,6,855,183.67,14352.6,1,TOP 3,GROWING
+1996,8,Condiments,Vegie-spread,456.3,2,NULL,NULL,456.3,2,TOP 3,NULL
+1996,10,Condiments,Vegie-spread,2386.8,1,456.3,423.08,2843.1,1,TOP 3,GROWING
+1996,12,Condiments,Vegie-spread,505.44,1,2386.8,-78.82,3348.54,2,TOP 3,SHARP DECLINE
+1997,1,Condiments,Vegie-spread,3202.88,2,505.44,533.68,6551.42,1,TOP 3,GROWING
+1997,6,Condiments,Vegie-spread,263.4,1,3202.88,-91.78,6814.82,3,TOP 3,SHARP DECLINE
+1997,7,Condiments,Vegie-spread,842.88,1,263.4,220,7657.7,3,TOP 3,GROWING
+1997,10,Condiments,Vegie-spread,878,1,842.88,4.17,8535.7,4,NULL,STABLE
+1997,11,Condiments,Vegie-spread,395.1,1,878,-55,8930.8,5,NULL,SHARP DECLINE
+1997,12,Condiments,Vegie-spread,1317,1,395.1,233.33,10247.8,2,TOP 3,GROWING
+1998,3,Condiments,Vegie-spread,4609.5,4,1317,250,14857.3,1,TOP 3,GROWING
+1998,4,Condiments,Vegie-spread,1843.8,2,4609.5,-60,16701.1,3,TOP 3,SHARP DECLINE
+1997,1,Confections,Chocolade,606.9,1,NULL,NULL,606.9,5,NULL,NULL
+1997,2,Confections,Chocolade,137.7,1,606.9,-77.31,744.6,9,NULL,SHARP DECLINE
+1997,4,Confections,Chocolade,162.56,1,137.7,18.06,907.16,7,NULL,STABLE
+1997,7,Confections,Chocolade,68.85,1,162.56,-57.65,976.01,9,NULL,SHARP DECLINE
+1997,10,Confections,Chocolade,306,1,68.85,344.44,1282.01,7,NULL,GROWING
+1998,1,Confections,Chocolade,86.7,1,306,-71.67,1368.71,11,NULL,SHARP DECLINE
+1996,10,Confections,Gumbär Gummibärchen,1655.85,2,NULL,NULL,1655.85,1,TOP 3,NULL
+1996,11,Confections,Gumbär Gummibärchen,398.4,1,1655.85,-75.94,2054.25,5,NULL,SHARP DECLINE
+1996,12,Confections,Gumbär Gummibärchen,1307.25,1,398.4,228.13,3361.5,2,TOP 3,GROWING
+1997,1,Confections,Gumbär Gummibärchen,1755.45,4,1307.25,34.29,5116.95,2,TOP 3,GROWING
+1997,2,Confections,Gumbär Gummibärchen,1269.9,3,1755.45,-27.66,6386.85,3,TOP 3,SHARP DECLINE
+1997,3,Confections,Gumbär Gummibärchen,747,1,1269.9,-41.18,7133.85,1,TOP 3,SHARP DECLINE
+1997,5,Confections,Gumbär Gummibärchen,1249.2,1,747,67.23,8383.05,3,TOP 3,GROWING
+1997,7,Confections,Gumbär Gummibärchen,335.72,2,1249.2,-73.12,8718.77,6,NULL,SHARP DECLINE
+1997,8,Confections,Gumbär Gummibärchen,929.09,1,335.72,176.74,9647.86,2,TOP 3,GROWING
+1997,9,Confections,Gumbär Gummibärchen,1264.82,2,929.09,36.13,10912.68,3,TOP 3,GROWING
+1997,10,Confections,Gumbär Gummibärchen,1405.35,2,1264.82,11.11,12318.03,2,TOP 3,STABLE
+1997,11,Confections,Gumbär Gummibärchen,961.88,2,1405.35,-31.56,13279.91,2,TOP 3,SHARP DECLINE
+1997,12,Confections,Gumbär Gummibärchen,524.66,1,961.88,-45.45,13804.58,7,NULL,SHARP DECLINE
+1998,1,Confections,Gumbär Gummibärchen,2734.19,4,524.66,421.13,16538.76,2,TOP 3,GROWING
+1998,2,Confections,Gumbär Gummibärchen,624.6,1,2734.19,-77.16,17163.36,6,NULL,SHARP DECLINE
+1998,3,Confections,Gumbär Gummibärchen,156.15,1,624.6,-75,17319.51,12,NULL,SHARP DECLINE
+1998,4,Confections,Gumbär Gummibärchen,2529.63,3,156.15,1520,19849.14,1,TOP 3,GROWING
+1996,7,Confections,Maxilaku,640,1,NULL,NULL,640,4,NULL,NULL
+1996,8,Confections,Maxilaku,240,1,640,-62.5,880,5,NULL,SHARP DECLINE
+1996,9,Confections,Maxilaku,480,1,240,100,1360,3,TOP 3,GROWING
+1996,11,Confections,Maxilaku,560,1,480,16.67,1920,4,NULL,STABLE
+1997,1,Confections,Maxilaku,936,2,560,67.14,2856,3,TOP 3,GROWING
+1997,2,Confections,Maxilaku,285.6,1,936,-69.49,3141.6,7,NULL,SHARP DECLINE
+1997,3,Confections,Maxilaku,384,1,285.6,34.45,3525.6,3,TOP 3,GROWING
+1997,4,Confections,Maxilaku,500,1,384,30.21,4025.6,5,NULL,GROWING
+1997,5,Confections,Maxilaku,120,1,500,-76,4145.6,7,NULL,SHARP DECLINE
+1997,7,Confections,Maxilaku,835,2,120,595.83,4980.6,4,NULL,GROWING
+1997,12,Confections,Maxilaku,68,1,835,-91.86,5048.6,10,NULL,SHARP DECLINE
+1998,2,Confections,Maxilaku,1596,4,68,2247.06,6644.6,2,TOP 3,GROWING
+1998,3,Confections,Maxilaku,1360,2,1596,-14.79,8004.6,6,NULL,DECLINING
+1998,4,Confections,Maxilaku,1240,2,1360,-8.82,9244.6,3,TOP 3,DECLINING
+1996,10,Confections,NuNuCa Nuß-Nougat-Creme,44.8,1,NULL,NULL,44.8,8,NULL,NULL
+1996,11,Confections,NuNuCa Nuß-Nougat-Creme,672,2,44.8,1400,716.8,2,TOP 3,GROWING
+1996,12,Confections,NuNuCa Nuß-Nougat-Creme,58.8,1,672,-91.25,775.6,7,NULL,SHARP DECLINE
+1997,3,Confections,NuNuCa Nuß-Nougat-Creme,134.4,1,58.8,128.57,910,9,NULL,GROWING
+1997,4,Confections,NuNuCa Nuß-Nougat-Creme,865.2,2,134.4,543.75,1775.2,4,NULL,GROWING
+1997,12,Confections,NuNuCa Nuß-Nougat-Creme,693,3,865.2,-19.9,2468.2,5,NULL,DECLINING
+1998,1,Confections,NuNuCa Nuß-Nougat-Creme,620.2,5,693,-10.51,3088.4,4,NULL,DECLINING
+1998,2,Confections,NuNuCa Nuß-Nougat-Creme,70,1,620.2,-88.71,3158.4,10,NULL,SHARP DECLINE
+1998,3,Confections,NuNuCa Nuß-Nougat-Creme,336,1,70,380,3494.4,10,NULL,GROWING
+1998,4,Confections,NuNuCa Nuß-Nougat-Creme,210,1,336,-37.5,3704.4,8,NULL,SHARP DECLINE
+1996,7,Confections,Pavlova,1112,2,NULL,NULL,1112,2,TOP 3,NULL
+1996,8,Confections,Pavlova,472.6,1,1112,-57.5,1584.6,3,TOP 3,SHARP DECLINE
+1996,9,Confections,Pavlova,556,2,472.6,17.65,2140.6,2,TOP 3,STABLE
+1996,10,Confections,Pavlova,248.12,1,556,-55.37,2388.72,3,TOP 3,SHARP DECLINE
+1996,11,Confections,Pavlova,739.48,1,248.12,198.04,3128.2,1,TOP 3,GROWING
+1997,1,Confections,Pavlova,248.12,1,739.48,-66.45,3376.31,10,NULL,SHARP DECLINE
+1997,2,Confections,Pavlova,1023.74,3,248.12,312.61,4400.05,4,NULL,GROWING
+1997,3,Confections,Pavlova,663.73,2,1023.74,-35.17,5063.77,2,TOP 3,SHARP DECLINE
+1997,4,Confections,Pavlova,872.5,1,663.73,31.46,5936.27,3,TOP 3,GROWING
+1997,5,Confections,Pavlova,1334.92,3,872.5,53,7271.2,2,TOP 3,GROWING
+1997,6,Confections,Pavlova,188.46,1,1334.92,-85.88,7459.66,4,NULL,SHARP DECLINE
+1997,7,Confections,Pavlova,497.32,1,188.46,163.89,7956.98,5,NULL,GROWING
+1997,9,Confections,Pavlova,1352.37,4,497.32,171.93,9309.36,2,TOP 3,GROWING
+1997,10,Confections,Pavlova,698,2,1352.37,-48.39,10007.36,4,NULL,SHARP DECLINE
+1997,11,Confections,Pavlova,301.01,2,698,-56.88,10308.37,5,NULL,SHARP DECLINE
+1997,12,Confections,Pavlova,1483.25,2,301.01,392.75,11791.62,3,TOP 3,GROWING
+1998,1,Confections,Pavlova,872.5,1,1483.25,-41.18,12664.12,3,TOP 3,SHARP DECLINE
+1998,2,Confections,Pavlova,958,4,872.5,9.8,13622.12,4,NULL,STABLE
+1998,3,Confections,Pavlova,2830.39,5,958,195.45,16452.51,3,TOP 3,GROWING
+1998,5,Confections,Pavlova,763.26,4,2830.39,-73.03,17215.78,1,TOP 3,SHARP DECLINE
+1996,7,Confections,Schoggi Schokolade,877.5,1,NULL,NULL,877.5,3,TOP 3,NULL
+1996,8,Confections,Schoggi Schokolade,394.88,1,877.5,-55,1272.38,4,NULL,SHARP DECLINE
+1997,2,Confections,Schoggi Schokolade,1755,1,394.88,344.44,3027.38,1,TOP 3,GROWING
+1997,4,Confections,Schoggi Schokolade,5268,1,1755,200.17,8295.38,1,TOP 3,GROWING
+1997,7,Confections,Schoggi Schokolade,2195,1,5268,-58.33,10490.38,1,TOP 3,SHARP DECLINE
+1997,12,Confections,Schoggi Schokolade,1756,1,2195,-20,12246.38,2,TOP 3,DECLINING
+1998,1,Confections,Schoggi Schokolade,439,1,1756,-75,12685.38,6,NULL,SHARP DECLINE
+1998,3,Confections,Schoggi Schokolade,2414.5,2,439,450,15099.88,4,NULL,GROWING
+1996,8,Confections,Scottish Longbreads,27,1,NULL,NULL,27,7,NULL,NULL
+1996,9,Confections,Scottish Longbreads,365,3,27,1251.85,392,4,NULL,GROWING
+1996,10,Confections,Scottish Longbreads,238,3,365,-34.79,630,4,NULL,SHARP DECLINE
+1996,12,Confections,Scottish Longbreads,664,2,238,178.99,1294,4,NULL,GROWING
+1997,1,Confections,Scottish Longbreads,510,2,664,-23.19,1804,8,NULL,SHARP DECLINE
+1997,2,Confections,Scottish Longbreads,157.5,1,510,-69.12,1961.5,8,NULL,SHARP DECLINE
+1997,3,Confections,Scottish Longbreads,300,1,157.5,90.48,2261.5,5,NULL,GROWING
+1997,4,Confections,Scottish Longbreads,75,1,300,-75,2336.5,9,NULL,SHARP DECLINE
+1997,5,Confections,Scottish Longbreads,687.5,2,75,816.67,3024,5,NULL,GROWING
+1997,8,Confections,Scottish Longbreads,367.5,2,687.5,-46.55,3391.5,6,NULL,SHARP DECLINE
+1997,9,Confections,Scottish Longbreads,125,1,367.5,-65.99,3516.5,8,NULL,SHARP DECLINE
+1997,10,Confections,Scottish Longbreads,962.5,2,125,670,4479,3,TOP 3,GROWING
+1997,11,Confections,Scottish Longbreads,60,1,962.5,-93.77,4539,7,NULL,SHARP DECLINE
+1997,12,Confections,Scottish Longbreads,912.5,3,60,1420.83,5451.5,4,NULL,GROWING
+1998,1,Confections,Scottish Longbreads,550,2,912.5,-39.73,6001.5,5,NULL,SHARP DECLINE
+1998,2,Confections,Scottish Longbreads,725,3,550,31.82,6726.5,5,NULL,GROWING
+1998,3,Confections,Scottish Longbreads,750,1,725,3.45,7476.5,7,NULL,STABLE
+1998,4,Confections,Scottish Longbreads,550,2,750,-26.67,8026.5,7,NULL,SHARP DECLINE
+1998,5,Confections,Scottish Longbreads,687.5,1,550,25,8714,2,TOP 3,GROWING
+1996,7,Confections,Sir Rodney's Marmalade,2462.4,1,NULL,NULL,2462.4,1,TOP 3,NULL
+1996,8,Confections,Sir Rodney's Marmalade,1684.8,2,2462.4,-31.58,4147.2,2,TOP 3,SHARP DECLINE
+1996,12,Confections,Sir Rodney's Marmalade,2397.6,2,1684.8,42.31,6544.8,1,TOP 3,GROWING
+1997,4,Confections,Sir Rodney's Marmalade,3159,1,2397.6,31.76,9703.8,2,TOP 3,GROWING
+1997,5,Confections,Sir Rodney's Marmalade,1093.5,1,3159,-65.38,10797.3,4,NULL,SHARP DECLINE
+1997,7,Confections,Sir Rodney's Marmalade,1360.8,1,1093.5,24.44,12158.1,2,TOP 3,GROWING
+1997,9,Confections,Sir Rodney's Marmalade,1701,1,1360.8,25,13859.1,1,TOP 3,GROWING
+1998,1,Confections,Sir Rodney's Marmalade,405,1,1701,-76.19,14264.1,7,NULL,SHARP DECLINE
+1998,2,Confections,Sir Rodney's Marmalade,1539,1,405,280,15803.1,3,TOP 3,GROWING
+1998,3,Confections,Sir Rodney's Marmalade,5467.5,3,1539,255.26,21270.6,2,TOP 3,GROWING
+1998,4,Confections,Sir Rodney's Marmalade,1215,1,5467.5,-77.78,22485.6,4,NULL,SHARP DECLINE
+1998,5,Confections,Sir Rodney's Marmalade,77.76,1,1215,-93.6,22563.36,5,NULL,SHARP DECLINE
+1996,7,Confections,Sir Rodney's Scones,240,2,NULL,NULL,240,6,NULL,NULL
+1996,10,Confections,Sir Rodney's Scones,72,1,240,-70,312,6,NULL,SHARP DECLINE
+1996,11,Confections,Sir Rodney's Scones,36,1,72,-50,348,7,NULL,SHARP DECLINE
+1996,12,Confections,Sir Rodney's Scones,68,1,36,88.89,416,6,NULL,GROWING
+1997,1,Confections,Sir Rodney's Scones,712,3,68,947.06,1128,4,NULL,GROWING
+1997,2,Confections,Sir Rodney's Scones,512,2,712,-28.09,1640,5,NULL,SHARP DECLINE
+1997,3,Confections,Sir Rodney's Scones,238,2,512,-53.52,1878,6,NULL,SHARP DECLINE
+1997,4,Confections,Sir Rodney's Scones,440,2,238,84.87,2318,6,NULL,GROWING
+1997,5,Confections,Sir Rodney's Scones,204,2,440,-53.64,2522,6,NULL,SHARP DECLINE
+1997,7,Confections,Sir Rodney's Scones,140,2,204,-31.37,2662,8,NULL,SHARP DECLINE
+1997,8,Confections,Sir Rodney's Scones,885,3,140,532.14,3547,3,TOP 3,GROWING
+1997,9,Confections,Sir Rodney's Scones,708,2,885,-20,4255,4,NULL,DECLINING
+1997,10,Confections,Sir Rodney's Scones,354,2,708,-50,4609,6,NULL,SHARP DECLINE
+1997,11,Confections,Sir Rodney's Scones,680,2,354,92.09,5289,4,NULL,GROWING
+1997,12,Confections,Sir Rodney's Scones,400,1,680,-41.18,5689,8,NULL,SHARP DECLINE
+1998,1,Confections,Sir Rodney's Scones,400,1,400,0,6089,8,NULL,STABLE
+1998,2,Confections,Sir Rodney's Scones,580,2,400,45,6669,7,NULL,GROWING
+1998,3,Confections,Sir Rodney's Scones,1420,4,580,144.83,8089,5,NULL,GROWING
+1998,4,Confections,Sir Rodney's Scones,1015,4,1420,-28.52,9104,5,NULL,SHARP DECLINE
+1996,7,Confections,Tarte au sucre,443.25,1,NULL,NULL,443.25,5,NULL,NULL
+1996,8,Confections,Tarte au sucre,2048.8,2,443.25,362.22,2492.05,1,TOP 3,GROWING
+1996,9,Confections,Tarte au sucre,4826.5,5,2048.8,135.58,7318.55,1,TOP 3,GROWING
+1996,10,Confections,Tarte au sucre,1103.2,1,4826.5,-77.14,8421.75,2,TOP 3,SHARP DECLINE
+1996,12,Confections,Tarte au sucre,1182,2,1103.2,7.14,9603.75,3,TOP 3,STABLE
+1997,1,Confections,Tarte au sucre,2955,2,1182,150,12558.75,1,TOP 3,GROWING
+1997,2,Confections,Tarte au sucre,1379,1,2955,-53.33,13937.75,2,TOP 3,SHARP DECLINE
+1997,4,Confections,Tarte au sucre,147.9,1,1379,-89.27,14085.65,8,NULL,SHARP DECLINE
+1997,5,Confections,Tarte au sucre,2908.7,2,147.9,1866.67,16994.35,1,TOP 3,GROWING
+1997,6,Confections,Tarte au sucre,1491.32,3,2908.7,-48.73,18485.67,1,TOP 3,SHARP DECLINE
+1997,7,Confections,Tarte au sucre,887.4,2,1491.32,-40.5,19373.07,3,TOP 3,SHARP DECLINE
+1997,8,Confections,Tarte au sucre,4091.9,2,887.4,361.11,23464.98,1,TOP 3,GROWING
+1997,9,Confections,Tarte au sucre,493,1,4091.9,-87.95,23957.98,6,NULL,SHARP DECLINE
+1997,10,Confections,Tarte au sucre,3352.4,2,493,580,27310.37,1,TOP 3,GROWING
+1997,11,Confections,Tarte au sucre,1922.7,2,3352.4,-42.65,29233.07,1,TOP 3,SHARP DECLINE
+1997,12,Confections,Tarte au sucre,2008.97,4,1922.7,4.49,31242.05,1,TOP 3,STABLE
+1998,1,Confections,Tarte au sucre,4745.13,5,2008.97,136.2,35987.17,1,TOP 3,GROWING
+1998,2,Confections,Tarte au sucre,2913.63,3,4745.13,-38.6,38900.8,1,TOP 3,SHARP DECLINE
+1998,3,Confections,Tarte au sucre,6966.09,5,2913.63,139.09,45866.89,1,TOP 3,GROWING
+1998,4,Confections,Tarte au sucre,1368.08,2,6966.09,-80.36,47234.97,2,TOP 3,SHARP DECLINE
+1996,8,Confections,Teatime Chocolate Biscuits,138.7,2,NULL,NULL,138.7,6,NULL,NULL
+1996,9,Confections,Teatime Chocolate Biscuits,109.5,1,138.7,-21.05,248.2,5,NULL,SHARP DECLINE
+1996,10,Confections,Teatime Chocolate Biscuits,69.35,1,109.5,-36.67,317.55,7,NULL,SHARP DECLINE
+1996,11,Confections,Teatime Chocolate Biscuits,584,1,69.35,742.11,901.55,3,TOP 3,GROWING
+1997,1,Confections,Teatime Chocolate Biscuits,295.65,3,584,-49.38,1197.2,9,NULL,SHARP DECLINE
+1997,2,Confections,Teatime Chocolate Biscuits,458.44,3,295.65,55.06,1655.64,6,NULL,GROWING
+1997,3,Confections,Teatime Chocolate Biscuits,189.8,2,458.44,-58.6,1845.44,8,NULL,SHARP DECLINE
+1997,5,Confections,Teatime Chocolate Biscuits,92,1,189.8,-51.53,1937.44,8,NULL,SHARP DECLINE
+1997,6,Confections,Teatime Chocolate Biscuits,257.6,1,92,180,2195.04,2,TOP 3,GROWING
+1997,8,Confections,Teatime Chocolate Biscuits,446.2,3,257.6,73.21,2641.24,4,NULL,GROWING
+1997,9,Confections,Teatime Chocolate Biscuits,395.6,3,446.2,-11.34,3036.84,7,NULL,DECLINING
+1997,10,Confections,Teatime Chocolate Biscuits,204.7,3,395.6,-48.26,3241.54,8,NULL,SHARP DECLINE
+1997,12,Confections,Teatime Chocolate Biscuits,646.76,2,204.7,215.96,3888.3,6,NULL,GROWING
+1998,1,Confections,Teatime Chocolate Biscuits,244.72,3,646.76,-62.16,4133.02,10,NULL,SHARP DECLINE
+1998,2,Confections,Teatime Chocolate Biscuits,340.4,2,244.72,39.1,4473.42,8,NULL,GROWING
+1998,3,Confections,Teatime Chocolate Biscuits,174.8,2,340.4,-48.65,4648.22,11,NULL,SHARP DECLINE
+1998,4,Confections,Teatime Chocolate Biscuits,759,2,174.8,334.21,5407.22,6,NULL,GROWING
+1998,5,Confections,Teatime Chocolate Biscuits,455.4,2,759,-40,5862.62,3,TOP 3,SHARP DECLINE
+1996,11,Confections,Valkoinen suklaa,175.5,1,NULL,NULL,175.5,6,NULL,NULL
+1996,12,Confections,Valkoinen suklaa,195,1,175.5,11.11,370.5,5,NULL,STABLE
+1997,1,Confections,Valkoinen suklaa,520,1,195,166.67,890.5,7,NULL,GROWING
+1997,3,Confections,Valkoinen suklaa,325,1,520,-37.5,1215.5,4,NULL,SHARP DECLINE
+1997,8,Confections,Valkoinen suklaa,385.94,1,325,18.75,1601.44,5,NULL,STABLE
+1997,11,Confections,Valkoinen suklaa,942.5,2,385.94,144.21,2543.94,3,TOP 3,GROWING
+1998,3,Confections,Valkoinen suklaa,536.25,2,942.5,-43.1,3080.19,8,NULL,SHARP DECLINE
+1998,5,Confections,Valkoinen suklaa,357.5,1,536.25,-33.33,3437.69,4,NULL,SHARP DECLINE
+1996,10,Confections,Zaanse koeken,97.28,1,NULL,NULL,97.28,5,NULL,NULL
+1997,1,Confections,Zaanse koeken,589,2,97.28,505.47,686.28,6,NULL,GROWING
+1997,3,Confections,Zaanse koeken,228,1,589,-61.29,914.28,7,NULL,SHARP DECLINE
+1997,4,Confections,Zaanse koeken,48.45,1,228,-78.75,962.73,10,NULL,SHARP DECLINE
+1997,6,Confections,Zaanse koeken,237.5,1,48.45,390.2,1200.23,3,TOP 3,GROWING
+1997,7,Confections,Zaanse koeken,142.5,1,237.5,-40,1342.73,7,NULL,SHARP DECLINE
+1997,9,Confections,Zaanse koeken,668.8,4,142.5,369.33,2011.53,5,NULL,GROWING
+1997,10,Confections,Zaanse koeken,517.75,3,668.8,-22.59,2529.28,5,NULL,SHARP DECLINE
+1997,11,Confections,Zaanse koeken,213.75,1,517.75,-58.72,2743.03,6,NULL,SHARP DECLINE
+1997,12,Confections,Zaanse koeken,285,1,213.75,33.33,3028.03,9,NULL,GROWING
+1998,1,Confections,Zaanse koeken,285,1,285,0,3313.03,9,NULL,STABLE
+1998,2,Confections,Zaanse koeken,179.55,1,285,-37,3492.58,9,NULL,SHARP DECLINE
+1998,3,Confections,Zaanse koeken,465.5,3,179.55,159.26,3958.08,9,NULL,GROWING
+1996,7,Dairy Products,Camembert Pierrot,1088,1,NULL,NULL,1088,2,TOP 3,NULL
+1996,8,Dairy Products,Camembert Pierrot,1931.2,3,1088,77.5,3019.2,1,TOP 3,GROWING
+1996,11,Dairy Products,Camembert Pierrot,3587.68,3,1931.2,85.77,6606.88,1,TOP 3,GROWING
+1996,12,Dairy Products,Camembert Pierrot,2418.08,4,3587.68,-32.6,9024.96,2,TOP 3,SHARP DECLINE
+1997,1,Dairy Products,Camembert Pierrot,1550.4,1,2418.08,-35.88,10575.36,2,TOP 3,SHARP DECLINE
+1997,3,Dairy Products,Camembert Pierrot,1632,2,1550.4,5.26,12207.36,2,TOP 3,STABLE
+1997,4,Dairy Products,Camembert Pierrot,3097.4,3,1632,89.79,15304.76,1,TOP 3,GROWING
+1997,5,Dairy Products,Camembert Pierrot,892.5,1,3097.4,-71.19,16197.26,6,NULL,SHARP DECLINE
+1997,6,Dairy Products,Camembert Pierrot,693.6,1,892.5,-22.29,16890.86,5,NULL,SHARP DECLINE
+1997,7,Dairy Products,Camembert Pierrot,4131,3,693.6,495.59,21021.86,2,TOP 3,GROWING
+1997,8,Dairy Products,Camembert Pierrot,1020,2,4131,-75.31,22041.86,4,NULL,SHARP DECLINE
+1997,9,Dairy Products,Camembert Pierrot,4428.5,4,1020,334.17,26470.36,1,TOP 3,GROWING
+1997,10,Dairy Products,Camembert Pierrot,340,1,4428.5,-92.32,26810.36,6,NULL,SHARP DECLINE
+1997,11,Dairy Products,Camembert Pierrot,2210,2,340,550,29020.36,3,TOP 3,GROWING
+1997,12,Dairy Products,Camembert Pierrot,510,1,2210,-76.92,29530.36,7,NULL,SHARP DECLINE
+1998,1,Dairy Products,Camembert Pierrot,4998,4,510,880,34528.36,2,TOP 3,GROWING
+1998,2,Dairy Products,Camembert Pierrot,3400,1,4998,-31.97,37928.36,1,TOP 3,SHARP DECLINE
+1998,3,Dairy Products,Camembert Pierrot,2978.4,5,3400,-12.4,40906.76,2,TOP 3,DECLINING
+1998,4,Dairy Products,Camembert Pierrot,5854.8,8,2978.4,96.58,46761.56,2,TOP 3,GROWING
+1998,5,Dairy Products,Camembert Pierrot,63.92,1,5854.8,-98.91,46825.48,4,NULL,SHARP DECLINE
+1996,8,Dairy Products,Flotemysost,344,1,NULL,NULL,344,5,NULL,NULL
+1996,9,Dairy Products,Flotemysost,86,2,344,-75,430,6,NULL,SHARP DECLINE
+1996,10,Dairy Products,Flotemysost,1135.2,2,86,1220,1565.2,3,TOP 3,GROWING
+1996,11,Dairy Products,Flotemysost,86,1,1135.2,-92.42,1651.2,5,NULL,SHARP DECLINE
+1996,12,Dairy Products,Flotemysost,2597.2,5,86,2920,4248.4,1,TOP 3,GROWING
+1997,1,Dairy Products,Flotemysost,1290,2,2597.2,-50.33,5538.4,3,TOP 3,SHARP DECLINE
+1997,2,Dairy Products,Flotemysost,1410.4,3,1290,9.33,6948.8,2,TOP 3,STABLE
+1997,3,Dairy Products,Flotemysost,206.4,1,1410.4,-85.37,7155.2,5,NULL,SHARP DECLINE
+1997,5,Dairy Products,Flotemysost,174.15,1,206.4,-15.63,7329.35,9,NULL,DECLINING
+1997,7,Dairy Products,Flotemysost,806.25,3,174.15,362.96,8135.6,4,NULL,GROWING
+1997,8,Dairy Products,Flotemysost,1236.25,3,806.25,53.33,9371.85,2,TOP 3,GROWING
+1997,9,Dairy Products,Flotemysost,498.8,2,1236.25,-59.65,9870.65,6,NULL,SHARP DECLINE
+1997,10,Dairy Products,Flotemysost,2214.5,4,498.8,343.97,12085.15,2,TOP 3,GROWING
+1997,12,Dairy Products,Flotemysost,602,2,2214.5,-72.82,12687.15,6,NULL,SHARP DECLINE
+1998,1,Dairy Products,Flotemysost,946,1,602,57.14,13633.15,5,NULL,GROWING
+1998,2,Dairy Products,Flotemysost,1182.5,2,946,25,14815.65,5,NULL,GROWING
+1998,3,Dairy Products,Flotemysost,564.38,1,1182.5,-52.27,15380.03,8,NULL,SHARP DECLINE
+1998,4,Dairy Products,Flotemysost,4171,6,564.38,639.05,19551.03,3,TOP 3,GROWING
+1996,7,Dairy Products,Geitost,161.5,2,NULL,NULL,161.5,7,NULL,NULL
+1996,8,Dairy Products,Geitost,88,2,161.5,-45.51,249.5,6,NULL,SHARP DECLINE
+1996,10,Dairy Products,Geitost,16,1,88,-81.82,265.5,7,NULL,SHARP DECLINE
+1996,12,Dairy Products,Geitost,120,1,16,650,385.5,7,NULL,GROWING
+1997,1,Dairy Products,Geitost,238,3,120,98.33,623.5,6,NULL,GROWING
+1997,2,Dairy Products,Geitost,32,1,238,-86.55,655.5,6,NULL,SHARP DECLINE
+1997,3,Dairy Products,Geitost,24,1,32,-25,679.5,6,NULL,SHARP DECLINE
+1997,4,Dairy Products,Geitost,34,1,24,41.67,713.5,7,NULL,GROWING
+1997,5,Dairy Products,Geitost,128.5,3,34,277.94,842,10,NULL,GROWING
+1997,6,Dairy Products,Geitost,80,2,128.5,-37.74,922,8,NULL,SHARP DECLINE
+1997,7,Dairy Products,Geitost,35,1,80,-56.25,957,7,NULL,SHARP DECLINE
+1997,8,Dairy Products,Geitost,47.5,1,35,35.71,1004.5,7,NULL,GROWING
+1997,9,Dairy Products,Geitost,167,3,47.5,251.58,1171.5,7,NULL,GROWING
+1998,1,Dairy Products,Geitost,136,3,167,-18.56,1307.5,8,NULL,DECLINING
+1998,2,Dairy Products,Geitost,150,2,136,10.29,1457.5,8,NULL,STABLE
+1998,3,Dairy Products,Geitost,53.13,2,150,-64.58,1510.63,10,NULL,SHARP DECLINE
+1998,4,Dairy Products,Geitost,137.5,3,53.13,158.82,1648.13,10,NULL,GROWING
+1996,7,Dairy Products,Gorgonzola Telino,200,1,NULL,NULL,200,5,NULL,NULL
+1996,8,Dairy Products,Gorgonzola Telino,542.5,2,200,171.25,742.5,4,NULL,GROWING
+1996,10,Dairy Products,Gorgonzola Telino,688,3,542.5,26.82,1430.5,4,NULL,GROWING
+1996,11,Dairy Products,Gorgonzola Telino,1165,3,688,69.33,2595.5,3,TOP 3,GROWING
+1996,12,Dairy Products,Gorgonzola Telino,1559,4,1165,33.82,4154.5,5,NULL,GROWING
+1997,1,Dairy Products,Gorgonzola Telino,140,1,1559,-91.02,4294.5,7,NULL,SHARP DECLINE
+1997,2,Dairy Products,Gorgonzola Telino,27,1,140,-80.71,4321.5,7,NULL,SHARP DECLINE
+1997,3,Dairy Products,Gorgonzola Telino,297.5,1,27,1001.85,4619,4,NULL,GROWING
+1997,4,Dairy Products,Gorgonzola Telino,190,1,297.5,-36.13,4809,6,NULL,SHARP DECLINE
+1997,5,Dairy Products,Gorgonzola Telino,1584.38,4,190,733.88,6393.38,3,TOP 3,GROWING
+1997,6,Dairy Products,Gorgonzola Telino,1865,5,1584.38,17.71,8258.38,3,TOP 3,STABLE
+1997,9,Dairy Products,Gorgonzola Telino,515,3,1865,-72.39,8773.38,5,NULL,SHARP DECLINE
+1997,10,Dairy Products,Gorgonzola Telino,875,2,515,69.9,9648.38,5,NULL,GROWING
+1997,11,Dairy Products,Gorgonzola Telino,135.63,2,875,-84.5,9784,6,NULL,SHARP DECLINE
+1997,12,Dairy Products,Gorgonzola Telino,1671.25,6,135.63,1132.26,11455.25,2,TOP 3,GROWING
+1998,1,Dairy Products,Gorgonzola Telino,893.75,4,1671.25,-46.52,12349,6,NULL,SHARP DECLINE
+1998,2,Dairy Products,Gorgonzola Telino,437.5,1,893.75,-51.05,12786.5,6,NULL,SHARP DECLINE
+1998,3,Dairy Products,Gorgonzola Telino,1696.88,5,437.5,287.86,14483.38,4,NULL,GROWING
+1998,4,Dairy Products,Gorgonzola Telino,187.5,1,1696.88,-88.95,14670.88,9,NULL,SHARP DECLINE
+1998,5,Dairy Products,Gorgonzola Telino,250,1,187.5,33.33,14920.88,1,TOP 3,GROWING
+1996,9,Dairy Products,Gudbrandsdalsost,662.4,3,NULL,NULL,662.4,3,TOP 3,NULL
+1996,11,Dairy Products,Gudbrandsdalsost,1906.56,3,662.4,187.83,2568.96,2,TOP 3,GROWING
+1996,12,Dairy Products,Gudbrandsdalsost,1670.4,2,1906.56,-12.39,4239.36,4,NULL,DECLINING
+1997,1,Dairy Products,Gudbrandsdalsost,979.2,2,1670.4,-41.38,5218.56,4,NULL,SHARP DECLINE
+1997,4,Dairy Products,Gudbrandsdalsost,259.2,1,979.2,-73.53,5477.76,4,NULL,SHARP DECLINE
+1997,5,Dairy Products,Gudbrandsdalsost,1008,2,259.2,288.89,6485.76,5,NULL,GROWING
+1997,6,Dairy Products,Gudbrandsdalsost,306,1,1008,-69.64,6791.76,6,NULL,SHARP DECLINE
+1997,7,Dairy Products,Gudbrandsdalsost,2331,2,306,661.76,9122.76,3,TOP 3,GROWING
+1997,8,Dairy Products,Gudbrandsdalsost,540,1,2331,-76.83,9662.76,5,NULL,SHARP DECLINE
+1997,9,Dairy Products,Gudbrandsdalsost,1296,1,540,140,10958.76,3,TOP 3,GROWING
+1997,10,Dairy Products,Gudbrandsdalsost,1773,2,1296,36.81,12731.76,3,TOP 3,GROWING
+1997,11,Dairy Products,Gudbrandsdalsost,3879,5,1773,118.78,16610.76,2,TOP 3,GROWING
+1997,12,Dairy Products,Gudbrandsdalsost,691.2,1,3879,-82.18,17301.96,5,NULL,SHARP DECLINE
+1998,2,Dairy Products,Gudbrandsdalsost,1710,1,691.2,147.4,19011.96,3,TOP 3,GROWING
+1998,3,Dairy Products,Gudbrandsdalsost,684,2,1710,-60,19695.96,7,NULL,SHARP DECLINE
+1998,4,Dairy Products,Gudbrandsdalsost,2246.4,2,684,228.42,21942.36,5,NULL,GROWING
+1996,7,Dairy Products,Mascarpone Fabioli,122.88,1,NULL,NULL,122.88,8,NULL,NULL
+1996,9,Dairy Products,Mascarpone Fabioli,921.6,1,122.88,650,1044.48,2,TOP 3,GROWING
+1996,10,Dairy Products,Mascarpone Fabioli,122.88,1,921.6,-86.67,1167.36,6,NULL,SHARP DECLINE
+1997,4,Dairy Products,Mascarpone Fabioli,1280,1,122.88,941.67,2447.36,2,TOP 3,GROWING
+1997,5,Dairy Products,Mascarpone Fabioli,652.8,1,1280,-49,3100.16,8,NULL,SHARP DECLINE
+1997,6,Dairy Products,Mascarpone Fabioli,288,1,652.8,-55.88,3388.16,7,NULL,SHARP DECLINE
+1997,10,Dairy Products,Mascarpone Fabioli,128,1,288,-55.56,3516.16,8,NULL,SHARP DECLINE
+1997,11,Dairy Products,Mascarpone Fabioli,320,1,128,150,3836.16,5,NULL,GROWING
+1998,1,Dairy Products,Mascarpone Fabioli,640,1,320,100,4476.16,7,NULL,GROWING
+1998,2,Dairy Products,Mascarpone Fabioli,192,1,640,-70,4668.16,7,NULL,SHARP DECLINE
+1998,3,Dairy Products,Mascarpone Fabioli,1008,1,192,425,5676.16,6,NULL,GROWING
+1998,4,Dairy Products,Mascarpone Fabioli,2696,3,1008,167.46,8372.16,4,NULL,GROWING
+1998,5,Dairy Products,Mascarpone Fabioli,32,1,2696,-98.81,8404.16,5,NULL,SHARP DECLINE
+1996,7,Dairy Products,Mozzarella di Giovanni,813.4,3,NULL,NULL,813.4,3,TOP 3,NULL
+1996,8,Dairy Products,Mozzarella di Giovanni,945.2,3,813.4,16.2,1758.6,2,TOP 3,STABLE
+1996,9,Dairy Products,Mozzarella di Giovanni,556,1,945.2,-41.18,2314.6,4,NULL,SHARP DECLINE
+1996,10,Dairy Products,Mozzarella di Giovanni,2397.75,3,556,331.25,4712.35,1,TOP 3,GROWING
+1996,12,Dairy Products,Mozzarella di Giovanni,2059.98,3,2397.75,-14.09,6772.33,3,TOP 3,DECLINING
+1997,2,Dairy Products,Mozzarella di Giovanni,1390,2,2059.98,-32.52,8162.33,3,TOP 3,SHARP DECLINE
+1997,4,Dairy Products,Mozzarella di Giovanni,695,1,1390,-50,8857.33,3,TOP 3,SHARP DECLINE
+1997,5,Dairy Products,Mozzarella di Giovanni,1914,4,695,175.4,10771.33,1,TOP 3,GROWING
+1997,6,Dairy Products,Mozzarella di Giovanni,1879.2,2,1914,-1.82,12650.53,2,TOP 3,DECLINING
+1997,7,Dairy Products,Mozzarella di Giovanni,417.6,1,1879.2,-77.78,13068.13,5,NULL,SHARP DECLINE
+1997,8,Dairy Products,Mozzarella di Giovanni,2610,2,417.6,525,15678.13,1,TOP 3,GROWING
+1997,11,Dairy Products,Mozzarella di Giovanni,1461.6,2,2610,-44,17139.73,4,NULL,SHARP DECLINE
+1997,12,Dairy Products,Mozzarella di Giovanni,1235.4,2,1461.6,-15.48,18375.13,4,NULL,DECLINING
+1998,1,Dairy Products,Mozzarella di Giovanni,1722.6,2,1235.4,39.44,20097.73,3,TOP 3,GROWING
+1998,3,Dairy Products,Mozzarella di Giovanni,3514.8,5,1722.6,104.04,23612.53,1,TOP 3,GROWING
+1998,4,Dairy Products,Mozzarella di Giovanni,1287.6,2,3514.8,-63.37,24900.13,7,NULL,SHARP DECLINE
+1996,7,Dairy Products,Queso Cabrales,168,1,NULL,NULL,168,6,NULL,NULL
+1996,9,Dairy Products,Queso Cabrales,201.6,1,168,20,369.6,5,NULL,STABLE
+1996,10,Dairy Products,Queso Cabrales,672,1,201.6,233.33,1041.6,5,NULL,GROWING
+1996,11,Dairy Products,Queso Cabrales,564.48,2,672,-16,1606.08,4,NULL,DECLINING
+1997,1,Dairy Products,Queso Cabrales,504,1,564.48,-10.71,2110.08,5,NULL,DECLINING
+1997,2,Dairy Products,Queso Cabrales,685.44,3,504,36,2795.52,4,NULL,GROWING
+1997,3,Dairy Products,Queso Cabrales,441,3,685.44,-35.66,3236.52,3,TOP 3,SHARP DECLINE
+1997,5,Dairy Products,Queso Cabrales,1832.25,5,441,315.48,5068.77,2,TOP 3,GROWING
+1997,6,Dairy Products,Queso Cabrales,924,2,1832.25,-49.57,5992.77,4,NULL,SHARP DECLINE
+1997,7,Dairy Products,Queso Cabrales,294,1,924,-68.18,6286.77,6,NULL,SHARP DECLINE
+1997,8,Dairy Products,Queso Cabrales,210,1,294,-28.57,6496.77,6,NULL,SHARP DECLINE
+1997,10,Dairy Products,Queso Cabrales,315,1,210,50,6811.77,7,NULL,GROWING
+1997,11,Dairy Products,Queso Cabrales,105,1,315,-66.67,6916.77,7,NULL,SHARP DECLINE
+1997,12,Dairy Products,Queso Cabrales,1601.25,3,105,1425,8518.02,3,TOP 3,GROWING
+1998,1,Dairy Products,Queso Cabrales,1218,3,1601.25,-23.93,9736.02,4,NULL,SHARP DECLINE
+1998,2,Dairy Products,Queso Cabrales,1680,3,1218,37.93,11416.02,4,NULL,GROWING
+1998,3,Dairy Products,Queso Cabrales,1065.75,4,1680,-36.56,12481.77,5,NULL,SHARP DECLINE
+1998,4,Dairy Products,Queso Cabrales,210,1,1065.75,-80.3,12691.77,8,NULL,SHARP DECLINE
+1998,5,Dairy Products,Queso Cabrales,210,1,210,0,12901.77,2,TOP 3,STABLE
+1996,7,Dairy Products,Queso Manchego La Pastora,346.56,1,NULL,NULL,346.56,4,NULL,NULL
+1997,2,Dairy Products,Queso Manchego La Pastora,456,1,346.56,31.58,802.56,5,NULL,GROWING
+1997,5,Dairy Products,Queso Manchego La Pastora,1396.5,2,456,206.25,2199.06,4,NULL,GROWING
+1997,8,Dairy Products,Queso Manchego La Pastora,1162.8,1,1396.5,-16.73,3361.86,3,TOP 3,DECLINING
+1997,9,Dairy Products,Queso Manchego La Pastora,3800,1,1162.8,226.8,7161.86,2,TOP 3,GROWING
+1997,10,Dairy Products,Queso Manchego La Pastora,1520,2,3800,-60,8681.86,4,NULL,SHARP DECLINE
+1998,3,Dairy Products,Queso Manchego La Pastora,1900,2,1520,25,10581.86,3,TOP 3,GROWING
+1998,4,Dairy Products,Queso Manchego La Pastora,1603.6,3,1900,-15.6,12185.46,6,NULL,DECLINING
+1998,5,Dairy Products,Queso Manchego La Pastora,72.2,1,1603.6,-95.5,12257.66,3,TOP 3,SHARP DECLINE
+1996,7,Dairy Products,Raclette Courdavault,3938,2,NULL,NULL,3938,1,TOP 3,NULL
+1996,8,Dairy Products,Raclette Courdavault,910.8,2,3938,-76.87,4848.8,3,TOP 3,SHARP DECLINE
+1996,9,Dairy Products,Raclette Courdavault,1430,2,910.8,57,6278.8,1,TOP 3,GROWING
+1996,10,Dairy Products,Raclette Courdavault,2228.6,3,1430,55.85,8507.4,2,TOP 3,GROWING
+1996,12,Dairy Products,Raclette Courdavault,528,1,2228.6,-76.31,9035.4,6,NULL,SHARP DECLINE
+1997,1,Dairy Products,Raclette Courdavault,4364.8,4,528,726.67,13400.2,1,TOP 3,GROWING
+1997,2,Dairy Products,Raclette Courdavault,1584,1,4364.8,-63.71,14984.2,1,TOP 3,SHARP DECLINE
+1997,3,Dairy Products,Raclette Courdavault,7128,4,1584,350,22112.2,1,TOP 3,GROWING
+1997,4,Dairy Products,Raclette Courdavault,220,1,7128,-96.91,22332.2,5,NULL,SHARP DECLINE
+1997,5,Dairy Products,Raclette Courdavault,852.5,2,220,287.5,23184.7,7,NULL,GROWING
+1997,6,Dairy Products,Raclette Courdavault,2420,2,852.5,183.87,25604.7,1,TOP 3,GROWING
+1997,7,Dairy Products,Raclette Courdavault,4372.5,3,2420,80.68,29977.2,1,TOP 3,GROWING
+1997,9,Dairy Products,Raclette Courdavault,715,2,4372.5,-83.65,30692.2,4,NULL,SHARP DECLINE
+1997,10,Dairy Products,Raclette Courdavault,5703.5,4,715,697.69,36395.7,1,TOP 3,GROWING
+1997,11,Dairy Products,Raclette Courdavault,4881.25,5,5703.5,-14.42,41276.95,1,TOP 3,DECLINING
+1997,12,Dairy Products,Raclette Courdavault,3533.75,3,4881.25,-27.61,44810.7,1,TOP 3,SHARP DECLINE
+1998,1,Dairy Products,Raclette Courdavault,7749.5,4,3533.75,119.3,52560.2,1,TOP 3,GROWING
+1998,2,Dairy Products,Raclette Courdavault,2090,1,7749.5,-73.03,54650.2,2,TOP 3,SHARP DECLINE
+1998,3,Dairy Products,Raclette Courdavault,220,1,2090,-89.47,54870.2,9,NULL,SHARP DECLINE
+1998,4,Dairy Products,Raclette Courdavault,16285.5,7,220,7302.5,71155.7,1,TOP 3,GROWING
+1996,10,Grains/Cereals,Filo Mix,156.8,2,NULL,NULL,156.8,5,NULL,NULL
+1996,12,Grains/Cereals,Filo Mix,89.6,1,156.8,-42.86,246.4,4,NULL,SHARP DECLINE
+1997,2,Grains/Cereals,Filo Mix,187.6,2,89.6,109.38,434,4,NULL,GROWING
+1997,4,Grains/Cereals,Filo Mix,42,1,187.6,-77.61,476,4,NULL,SHARP DECLINE
+1997,6,Grains/Cereals,Filo Mix,700,2,42,1566.67,1176,3,TOP 3,GROWING
+1997,7,Grains/Cereals,Filo Mix,191.8,2,700,-72.6,1367.8,5,NULL,SHARP DECLINE
+1997,8,Grains/Cereals,Filo Mix,35,1,191.8,-81.75,1402.8,6,NULL,SHARP DECLINE
+1997,9,Grains/Cereals,Filo Mix,63,1,35,80,1465.8,6,NULL,GROWING
+1997,10,Grains/Cereals,Filo Mix,28,1,63,-55.56,1493.8,3,TOP 3,SHARP DECLINE
+1997,11,Grains/Cereals,Filo Mix,721,3,28,2475,2214.8,3,TOP 3,GROWING
+1997,12,Grains/Cereals,Filo Mix,155.75,2,721,-78.4,2370.55,5,NULL,SHARP DECLINE
+1998,1,Grains/Cereals,Filo Mix,196,2,155.75,25.84,2566.55,7,NULL,GROWING
+1998,2,Grains/Cereals,Filo Mix,93.1,1,196,-52.5,2659.65,6,NULL,SHARP DECLINE
+1998,3,Grains/Cereals,Filo Mix,370.3,4,93.1,297.74,3029.95,5,NULL,GROWING
+1998,4,Grains/Cereals,Filo Mix,189,3,370.3,-48.96,3218.95,6,NULL,SHARP DECLINE
+1998,5,Grains/Cereals,Filo Mix,14,1,189,-92.59,3232.95,3,TOP 3,SHARP DECLINE
+1996,7,Grains/Cereals,Gnocchi di nonna Alice,60.8,1,NULL,NULL,60.8,4,NULL,NULL
+1996,9,Grains/Cereals,Gnocchi di nonna Alice,729.6,2,60.8,1100,790.4,1,TOP 3,GROWING
+1996,10,Grains/Cereals,Gnocchi di nonna Alice,346.56,1,729.6,-52.5,1136.96,2,TOP 3,SHARP DECLINE
+1996,11,Grains/Cereals,Gnocchi di nonna Alice,608,1,346.56,75.44,1744.96,3,TOP 3,GROWING
+1996,12,Grains/Cereals,Gnocchi di nonna Alice,1018.4,2,608,67.5,2763.36,1,TOP 3,GROWING
+1997,1,Grains/Cereals,Gnocchi di nonna Alice,3192,3,1018.4,213.43,5955.36,1,TOP 3,GROWING
+1997,2,Grains/Cereals,Gnocchi di nonna Alice,2401.6,3,3192,-24.76,8356.96,1,TOP 3,SHARP DECLINE
+1997,3,Grains/Cereals,Gnocchi di nonna Alice,1337.6,2,2401.6,-44.3,9694.56,1,TOP 3,SHARP DECLINE
+1997,4,Grains/Cereals,Gnocchi di nonna Alice,5517.6,4,1337.6,312.5,15212.16,1,TOP 3,GROWING
+1997,5,Grains/Cereals,Gnocchi di nonna Alice,969,1,5517.6,-82.44,16181.16,1,TOP 3,SHARP DECLINE
+1997,6,Grains/Cereals,Gnocchi di nonna Alice,3382,2,969,249.02,19563.16,1,TOP 3,GROWING
+1997,7,Grains/Cereals,Gnocchi di nonna Alice,1748,3,3382,-48.31,21311.16,1,TOP 3,SHARP DECLINE
+1997,8,Grains/Cereals,Gnocchi di nonna Alice,2926,2,1748,67.39,24237.16,1,TOP 3,GROWING
+1997,9,Grains/Cereals,Gnocchi di nonna Alice,2097.6,2,2926,-28.31,26334.76,1,TOP 3,SHARP DECLINE
+1997,10,Grains/Cereals,Gnocchi di nonna Alice,2223,3,2097.6,5.98,28557.76,1,TOP 3,STABLE
+1997,11,Grains/Cereals,Gnocchi di nonna Alice,3275.6,5,2223,47.35,31833.36,1,TOP 3,GROWING
+1997,12,Grains/Cereals,Gnocchi di nonna Alice,3534,3,3275.6,7.89,35367.36,1,TOP 3,STABLE
+1998,1,Grains/Cereals,Gnocchi di nonna Alice,3838,4,3534,8.6,39205.36,1,TOP 3,STABLE
+1998,2,Grains/Cereals,Gnocchi di nonna Alice,1366.1,2,3838,-64.41,40571.46,1,TOP 3,SHARP DECLINE
+1998,3,Grains/Cereals,Gnocchi di nonna Alice,1071.6,2,1366.1,-21.56,41643.06,1,TOP 3,SHARP DECLINE
+1998,4,Grains/Cereals,Gnocchi di nonna Alice,950,2,1071.6,-11.35,42593.06,3,TOP 3,DECLINING
+1996,7,Grains/Cereals,Gustaf's Knäckebröd,95.76,1,NULL,NULL,95.76,3,TOP 3,NULL
+1997,2,Grains/Cereals,Gustaf's Knäckebröd,201.6,1,95.76,110.53,297.36,3,TOP 3,GROWING
+1997,5,Grains/Cereals,Gustaf's Knäckebröd,504,1,201.6,150,801.36,3,TOP 3,GROWING
+1997,7,Grains/Cereals,Gustaf's Knäckebröd,1008,1,504,100,1809.36,3,TOP 3,GROWING
+1997,8,Grains/Cereals,Gustaf's Knäckebröd,1995,3,1008,97.92,3804.36,2,TOP 3,GROWING
+1997,9,Grains/Cereals,Gustaf's Knäckebröd,315,1,1995,-84.21,4119.36,5,NULL,SHARP DECLINE
+1997,12,Grains/Cereals,Gustaf's Knäckebröd,210,2,315,-33.33,4329.36,4,NULL,SHARP DECLINE
+1998,1,Grains/Cereals,Gustaf's Knäckebröd,1827,2,210,770,6156.36,3,TOP 3,GROWING
+1998,3,Grains/Cereals,Gustaf's Knäckebröd,441,1,1827,-75.86,6597.36,3,TOP 3,SHARP DECLINE
+1998,4,Grains/Cereals,Gustaf's Knäckebröd,525,1,441,19.05,7122.36,5,NULL,STABLE
+1996,7,Grains/Cereals,Ravioli Angelo,1002.3,2,NULL,NULL,1002.3,1,TOP 3,NULL
+1996,8,Grains/Cereals,Ravioli Angelo,31.2,1,1002.3,-96.89,1033.5,2,TOP 3,SHARP DECLINE
+1996,10,Grains/Cereals,Ravioli Angelo,249.6,1,31.2,700,1283.1,4,NULL,GROWING
+1996,11,Grains/Cereals,Ravioli Angelo,780,2,249.6,212.5,2063.1,2,TOP 3,GROWING
+1997,1,Grains/Cereals,Ravioli Angelo,312,1,780,-60,2375.1,4,NULL,SHARP DECLINE
+1997,2,Grains/Cereals,Ravioli Angelo,187.2,1,312,-40,2562.3,5,NULL,SHARP DECLINE
+1997,5,Grains/Cereals,Ravioli Angelo,87.75,1,187.2,-53.12,2650.05,4,NULL,SHARP DECLINE
+1997,6,Grains/Cereals,Ravioli Angelo,195,2,87.75,122.22,2845.05,5,NULL,GROWING
+1997,7,Grains/Cereals,Ravioli Angelo,390,1,195,100,3235.05,4,NULL,GROWING
+1997,10,Grains/Cereals,Ravioli Angelo,780,1,390,100,4015.05,2,TOP 3,GROWING
+1997,11,Grains/Cereals,Ravioli Angelo,204.75,1,780,-73.75,4219.8,6,NULL,SHARP DECLINE
+1998,1,Grains/Cereals,Ravioli Angelo,1238.25,4,204.75,504.76,5458.05,4,NULL,GROWING
+1998,2,Grains/Cereals,Ravioli Angelo,390,1,1238.25,-68.5,5848.05,4,NULL,SHARP DECLINE
+1998,3,Grains/Cereals,Ravioli Angelo,877.5,2,390,125,6725.55,2,TOP 3,GROWING
+1998,4,Grains/Cereals,Ravioli Angelo,936,2,877.5,6.67,7661.55,4,NULL,STABLE
+1996,7,Grains/Cereals,Singaporean Hokkien Fried Mee,98,1,NULL,NULL,98,2,TOP 3,NULL
+1996,9,Grains/Cereals,Singaporean Hokkien Fried Mee,89.6,2,98,-8.57,187.6,2,TOP 3,DECLINING
+1996,10,Grains/Cereals,Singaporean Hokkien Fried Mee,89.6,1,89.6,0,277.2,6,NULL,STABLE
+1996,11,Grains/Cereals,Singaporean Hokkien Fried Mee,100.8,1,89.6,12.5,378,5,NULL,STABLE
+1997,1,Grains/Cereals,Singaporean Hokkien Fried Mee,425.6,1,100.8,322.22,803.6,3,TOP 3,GROWING
+1997,3,Grains/Cereals,Singaporean Hokkien Fried Mee,560,1,425.6,31.58,1363.6,3,TOP 3,GROWING
+1997,4,Grains/Cereals,Singaporean Hokkien Fried Mee,912.8,3,560,63,2276.4,2,TOP 3,GROWING
+1997,6,Grains/Cereals,Singaporean Hokkien Fried Mee,333.2,1,912.8,-63.5,2609.6,4,NULL,SHARP DECLINE
+1997,7,Grains/Cereals,Singaporean Hokkien Fried Mee,1120,1,333.2,236.13,3729.6,2,TOP 3,GROWING
+1997,8,Grains/Cereals,Singaporean Hokkien Fried Mee,70,1,1120,-93.75,3799.6,5,NULL,SHARP DECLINE
+1997,9,Grains/Cereals,Singaporean Hokkien Fried Mee,1183,4,70,1590,4982.6,3,TOP 3,GROWING
+1997,11,Grains/Cereals,Singaporean Hokkien Fried Mee,392,1,1183,-66.86,5374.6,5,NULL,SHARP DECLINE
+1997,12,Grains/Cereals,Singaporean Hokkien Fried Mee,411.6,3,392,5,5786.2,3,TOP 3,STABLE
+1998,1,Grains/Cereals,Singaporean Hokkien Fried Mee,809.2,2,411.6,96.6,6595.4,5,NULL,GROWING
+1998,2,Grains/Cereals,Singaporean Hokkien Fried Mee,350,1,809.2,-56.75,6945.4,5,NULL,SHARP DECLINE
+1998,3,Grains/Cereals,Singaporean Hokkien Fried Mee,112,1,350,-68,7057.4,6,NULL,SHARP DECLINE
+1998,4,Grains/Cereals,Singaporean Hokkien Fried Mee,1517.6,5,112,1255,8575,1,TOP 3,GROWING
+1996,10,Grains/Cereals,Tunnbröd,288,1,NULL,NULL,288,3,TOP 3,NULL
+1996,11,Grains/Cereals,Tunnbröd,180,1,288,-37.5,468,4,NULL,SHARP DECLINE
+1996,12,Grains/Cereals,Tunnbröd,288,1,180,60,756,3,TOP 3,GROWING
+1997,1,Grains/Cereals,Tunnbröd,432,1,288,50,1188,2,TOP 3,GROWING
+1997,3,Grains/Cereals,Tunnbröd,259.2,2,432,-40,1447.2,4,NULL,SHARP DECLINE
+1997,4,Grains/Cereals,Tunnbröd,72,1,259.2,-72.22,1519.2,3,TOP 3,SHARP DECLINE
+1997,5,Grains/Cereals,Tunnbröd,706.5,2,72,881.25,2225.7,2,TOP 3,GROWING
+1997,8,Grains/Cereals,Tunnbröd,90,1,706.5,-87.26,2315.7,4,NULL,SHARP DECLINE
+1997,9,Grains/Cereals,Tunnbröd,333,2,90,270,2648.7,4,NULL,GROWING
+1997,11,Grains/Cereals,Tunnbröd,396,1,333,18.92,3044.7,4,NULL,STABLE
+1998,1,Grains/Cereals,Tunnbröd,729,2,396,84.09,3773.7,6,NULL,GROWING
+1998,2,Grains/Cereals,Tunnbröd,666,2,729,-8.64,4439.7,3,TOP 3,DECLINING
+1998,3,Grains/Cereals,Tunnbröd,54,1,666,-91.89,4493.7,7,NULL,SHARP DECLINE
+1998,4,Grains/Cereals,Tunnbröd,90,1,54,66.67,4583.7,7,NULL,GROWING
+1998,5,Grains/Cereals,Tunnbröd,18,1,90,-80,4601.7,2,TOP 3,SHARP DECLINE
+1996,8,Grains/Cereals,Wimmers gute Semmelknödel,239.4,1,NULL,NULL,239.4,1,TOP 3,NULL
+1996,10,Grains/Cereals,Wimmers gute Semmelknödel,1330,1,239.4,455.56,1569.4,1,TOP 3,GROWING
+1996,11,Grains/Cereals,Wimmers gute Semmelknödel,837.9,1,1330,-37,2407.3,1,TOP 3,SHARP DECLINE
+1996,12,Grains/Cereals,Wimmers gute Semmelknödel,798,1,837.9,-4.76,3205.3,2,TOP 3,DECLINING
+1997,1,Grains/Cereals,Wimmers gute Semmelknödel,186.2,1,798,-76.67,3391.5,5,NULL,SHARP DECLINE
+1997,2,Grains/Cereals,Wimmers gute Semmelknödel,1715.7,3,186.2,821.43,5107.2,2,TOP 3,GROWING
+1997,3,Grains/Cereals,Wimmers gute Semmelknödel,1010.8,2,1715.7,-41.09,6118,2,TOP 3,SHARP DECLINE
+1997,6,Grains/Cereals,Wimmers gute Semmelknödel,1735.65,3,1010.8,71.71,7853.65,2,TOP 3,GROWING
+1997,8,Grains/Cereals,Wimmers gute Semmelknödel,299.25,1,1735.65,-82.76,8152.9,3,TOP 3,SHARP DECLINE
+1997,9,Grains/Cereals,Wimmers gute Semmelknödel,1379.88,2,299.25,361.11,9532.77,2,TOP 3,GROWING
+1997,11,Grains/Cereals,Wimmers gute Semmelknödel,798,1,1379.88,-42.17,10330.77,2,TOP 3,SHARP DECLINE
+1997,12,Grains/Cereals,Wimmers gute Semmelknödel,931,1,798,16.67,11261.77,2,TOP 3,STABLE
+1998,1,Grains/Cereals,Wimmers gute Semmelknödel,3441.38,4,931,269.64,14703.15,2,TOP 3,GROWING
+1998,2,Grains/Cereals,Wimmers gute Semmelknödel,1138.81,2,3441.38,-66.91,15841.96,2,TOP 3,SHARP DECLINE
+1998,3,Grains/Cereals,Wimmers gute Semmelknödel,399,2,1138.81,-64.96,16240.96,4,NULL,SHARP DECLINE
+1998,4,Grains/Cereals,Wimmers gute Semmelknödel,1330,2,399,233.33,17570.96,2,TOP 3,GROWING
+1998,5,Grains/Cereals,Wimmers gute Semmelknödel,4387.01,2,1330,229.85,21957.97,1,TOP 3,GROWING
+1996,7,Meat/Poultry,Alice Mutton,936,1,NULL,NULL,936,2,TOP 3,NULL
+1996,8,Meat/Poultry,Alice Mutton,819,2,936,-12.5,1755,2,TOP 3,DECLINING
+1996,9,Meat/Poultry,Alice Mutton,1248,1,819,52.38,3003,2,TOP 3,GROWING
+1996,10,Meat/Poultry,Alice Mutton,2948.4,3,1248,136.25,5951.4,1,TOP 3,GROWING
+1996,11,Meat/Poultry,Alice Mutton,1010.88,1,2948.4,-65.71,6962.28,2,TOP 3,SHARP DECLINE
+1997,1,Meat/Poultry,Alice Mutton,2355.6,3,1010.88,133.02,9317.88,1,TOP 3,GROWING
+1997,2,Meat/Poultry,Alice Mutton,312,1,2355.6,-86.75,9629.88,5,NULL,SHARP DECLINE
+1997,5,Meat/Poultry,Alice Mutton,2718.3,3,312,771.25,12348.18,1,TOP 3,GROWING
+1997,6,Meat/Poultry,Alice Mutton,1294.8,2,2718.3,-52.37,13642.98,2,TOP 3,SHARP DECLINE
+1997,7,Meat/Poultry,Alice Mutton,3900,1,1294.8,201.2,17542.98,1,TOP 3,GROWING
+1997,9,Meat/Poultry,Alice Mutton,936,1,3900,-76,18478.98,3,TOP 3,SHARP DECLINE
+1997,10,Meat/Poultry,Alice Mutton,1866.15,3,936,99.37,20345.13,3,TOP 3,GROWING
+1997,11,Meat/Poultry,Alice Mutton,741,1,1866.15,-60.29,21086.13,1,TOP 3,SHARP DECLINE
+1997,12,Meat/Poultry,Alice Mutton,3480.75,3,741,369.74,24566.88,2,TOP 3,GROWING
+1998,1,Meat/Poultry,Alice Mutton,1872,2,3480.75,-46.22,26438.88,1,TOP 3,SHARP DECLINE
+1998,2,Meat/Poultry,Alice Mutton,2035.8,4,1872,8.75,28474.68,2,TOP 3,STABLE
+1998,3,Meat/Poultry,Alice Mutton,1053,3,2035.8,-48.28,29527.68,2,TOP 3,SHARP DECLINE
+1998,4,Meat/Poultry,Alice Mutton,468,1,1053,-55.56,29995.68,4,NULL,SHARP DECLINE
+1998,5,Meat/Poultry,Alice Mutton,2702.7,1,468,477.5,32698.38,1,TOP 3,GROWING
+1997,1,Meat/Poultry,Mishi Kobe Niku,1396.8,1,NULL,NULL,1396.8,3,TOP 3,NULL
+1997,4,Meat/Poultry,Mishi Kobe Niku,1319.2,1,1396.8,-5.56,2716,2,TOP 3,DECLINING
+1997,9,Meat/Poultry,Mishi Kobe Niku,3637.5,1,1319.2,175.74,6353.5,2,TOP 3,GROWING
+1997,10,Meat/Poultry,Mishi Kobe Niku,582,1,3637.5,-84,6935.5,6,NULL,SHARP DECLINE
+1998,1,Meat/Poultry,Mishi Kobe Niku,291,1,582,-50,7226.5,4,NULL,SHARP DECLINE
+1996,7,Meat/Poultry,Pâté chinois,342.72,1,NULL,NULL,342.72,4,NULL,NULL
+1996,8,Meat/Poultry,Pâté chinois,384,1,342.72,12.04,726.72,4,NULL,STABLE
+1996,10,Meat/Poultry,Pâté chinois,614.4,1,384,60,1341.12,2,TOP 3,GROWING
+1996,11,Meat/Poultry,Pâté chinois,230.4,1,614.4,-62.5,1571.52,4,NULL,SHARP DECLINE
+1996,12,Meat/Poultry,Pâté chinois,2361.6,2,230.4,925,3933.12,3,TOP 3,GROWING
+1997,1,Meat/Poultry,Pâté chinois,144,1,2361.6,-93.9,4077.12,6,NULL,SHARP DECLINE
+1997,2,Meat/Poultry,Pâté chinois,2937.6,2,144,1940,7014.72,1,TOP 3,GROWING
+1997,3,Meat/Poultry,Pâté chinois,554.88,2,2937.6,-81.11,7569.6,3,TOP 3,SHARP DECLINE
+1997,5,Meat/Poultry,Pâté chinois,336,1,554.88,-39.45,7905.6,3,TOP 3,SHARP DECLINE
+1997,6,Meat/Poultry,Pâté chinois,980.4,2,336,191.79,8886,4,NULL,GROWING
+1997,7,Meat/Poultry,Pâté chinois,504,2,980.4,-48.59,9390,2,TOP 3,SHARP DECLINE
+1997,8,Meat/Poultry,Pâté chinois,273.6,1,504,-45.71,9663.6,3,TOP 3,SHARP DECLINE
+1997,9,Meat/Poultry,Pâté chinois,86.4,1,273.6,-68.42,9750,6,NULL,SHARP DECLINE
+1997,10,Meat/Poultry,Pâté chinois,648,2,86.4,650,10398,5,NULL,GROWING
+1997,11,Meat/Poultry,Pâté chinois,288,1,648,-55.56,10686,2,TOP 3,SHARP DECLINE
+1997,12,Meat/Poultry,Pâté chinois,1080,1,288,275,11766,3,TOP 3,GROWING
+1998,2,Meat/Poultry,Pâté chinois,840,2,1080,-22.22,12606,3,TOP 3,SHARP DECLINE
+1998,3,Meat/Poultry,Pâté chinois,576,2,840,-31.43,13182,4,NULL,SHARP DECLINE
+1998,4,Meat/Poultry,Pâté chinois,4110,5,576,613.54,17292,2,TOP 3,GROWING
+1998,5,Meat/Poultry,Pâté chinois,134.4,2,4110,-96.73,17426.4,3,TOP 3,SHARP DECLINE
+1996,7,Meat/Poultry,Perth Pasties,393,1,NULL,NULL,393,3,TOP 3,NULL
+1996,8,Meat/Poultry,Perth Pasties,754.56,1,393,92,1147.56,3,TOP 3,GROWING
+1996,9,Meat/Poultry,Perth Pasties,786,2,754.56,4.17,1933.56,3,TOP 3,STABLE
+1996,12,Meat/Poultry,Perth Pasties,3170.2,3,786,303.33,5103.76,2,TOP 3,GROWING
+1997,1,Meat/Poultry,Perth Pasties,596.05,2,3170.2,-81.2,5699.81,4,NULL,SHARP DECLINE
+1997,2,Meat/Poultry,Perth Pasties,1703,2,596.05,185.71,7402.81,3,TOP 3,GROWING
+1997,3,Meat/Poultry,Perth Pasties,733.6,1,1703,-56.92,8136.41,2,TOP 3,SHARP DECLINE
+1997,4,Meat/Poultry,Perth Pasties,688.8,3,733.6,-6.11,8825.21,3,TOP 3,DECLINING
+1997,6,Meat/Poultry,Perth Pasties,1410.4,2,688.8,104.76,10235.61,1,TOP 3,GROWING
+1997,8,Meat/Poultry,Perth Pasties,1172.6,2,1410.4,-16.86,11408.21,2,TOP 3,DECLINING
+1997,9,Meat/Poultry,Perth Pasties,328,1,1172.6,-72.03,11736.21,4,NULL,SHARP DECLINE
+1997,10,Meat/Poultry,Perth Pasties,4029.48,2,328,1128.5,15765.69,2,TOP 3,GROWING
+1998,1,Meat/Poultry,Perth Pasties,921.68,2,4029.48,-77.13,16687.37,3,TOP 3,SHARP DECLINE
+1998,2,Meat/Poultry,Perth Pasties,98.4,1,921.68,-89.32,16785.77,5,NULL,SHARP DECLINE
+1998,3,Meat/Poultry,Perth Pasties,721.6,2,98.4,633.33,17507.37,3,TOP 3,GROWING
+1998,4,Meat/Poultry,Perth Pasties,2328.8,2,721.6,222.73,19836.17,3,TOP 3,GROWING
+1998,5,Meat/Poultry,Perth Pasties,738,1,2328.8,-68.31,20574.17,2,TOP 3,SHARP DECLINE
+1996,7,Meat/Poultry,Thüringer Rostbratwurst,990,1,NULL,NULL,990,1,TOP 3,NULL
+1996,8,Meat/Poultry,Thüringer Rostbratwurst,1485,1,990,50,2475,1,TOP 3,GROWING
+1996,9,Meat/Poultry,Thüringer Rostbratwurst,2227.5,1,1485,50,4702.5,1,TOP 3,GROWING
+1996,11,Meat/Poultry,Thüringer Rostbratwurst,3861,2,2227.5,73.33,8563.5,1,TOP 3,GROWING
+1996,12,Meat/Poultry,Thüringer Rostbratwurst,3366,2,3861,-12.82,11929.5,1,TOP 3,DECLINING
+1997,1,Meat/Poultry,Thüringer Rostbratwurst,2079,1,3366,-38.24,14008.5,2,TOP 3,SHARP DECLINE
+1997,2,Meat/Poultry,Thüringer Rostbratwurst,2019.6,1,2079,-2.86,16028.1,2,TOP 3,DECLINING
+1997,3,Meat/Poultry,Thüringer Rostbratwurst,1603.8,1,2019.6,-20.59,17631.9,1,TOP 3,SHARP DECLINE
+1997,4,Meat/Poultry,Thüringer Rostbratwurst,4456.44,1,1603.8,177.87,22088.34,1,TOP 3,GROWING
+1997,6,Meat/Poultry,Thüringer Rostbratwurst,1237.9,1,4456.44,-72.22,23326.24,3,TOP 3,SHARP DECLINE
+1997,8,Meat/Poultry,Thüringer Rostbratwurst,3218.54,2,1237.9,160,26544.78,1,TOP 3,GROWING
+1997,9,Meat/Poultry,Thüringer Rostbratwurst,5694.34,2,3218.54,76.92,32239.12,1,TOP 3,GROWING
+1997,10,Meat/Poultry,Thüringer Rostbratwurst,6362.81,2,5694.34,11.74,38601.93,1,TOP 3,STABLE
+1997,12,Meat/Poultry,Thüringer Rostbratwurst,8083.49,4,6362.81,27.04,46685.41,1,TOP 3,GROWING
+1998,1,Meat/Poultry,Thüringer Rostbratwurst,1869.23,2,8083.49,-76.88,48554.64,2,TOP 3,SHARP DECLINE
+1998,2,Meat/Poultry,Thüringer Rostbratwurst,18444.71,3,1869.23,886.75,66999.35,1,TOP 3,GROWING
+1998,3,Meat/Poultry,Thüringer Rostbratwurst,1733.06,1,18444.71,-90.6,68732.41,1,TOP 3,SHARP DECLINE
+1998,4,Meat/Poultry,Thüringer Rostbratwurst,11636.26,4,1733.06,571.43,80368.67,1,TOP 3,GROWING
+1996,8,Meat/Poultry,Tourtière,53.1,1,NULL,NULL,53.1,5,NULL,NULL
+1996,9,Meat/Poultry,Tourtière,29.5,1,53.1,-44.44,82.6,4,NULL,SHARP DECLINE
+1996,10,Meat/Poultry,Tourtière,88.5,1,29.5,200,171.1,3,TOP 3,GROWING
+1996,11,Meat/Poultry,Tourtière,654.9,5,88.5,640,826,3,TOP 3,GROWING
+1996,12,Meat/Poultry,Tourtière,59,1,654.9,-90.99,885,4,NULL,SHARP DECLINE
+1997,1,Meat/Poultry,Tourtière,271.4,2,59,360,1156.4,5,NULL,GROWING
+1997,2,Meat/Poultry,Tourtière,588.82,3,271.4,116.96,1745.22,4,NULL,GROWING
+1997,3,Meat/Poultry,Tourtière,106.2,1,588.82,-81.96,1851.42,4,NULL,SHARP DECLINE
+1997,4,Meat/Poultry,Tourtière,149,1,106.2,40.3,2000.42,4,NULL,GROWING
+1997,5,Meat/Poultry,Tourtière,341.21,3,149,129,2341.63,2,TOP 3,GROWING
+1997,7,Meat/Poultry,Tourtière,402.3,2,341.21,17.9,2743.93,3,TOP 3,STABLE
+1997,8,Meat/Poultry,Tourtière,223.5,1,402.3,-44.44,2967.43,4,NULL,SHARP DECLINE
+1997,9,Meat/Poultry,Tourtière,263.73,2,223.5,18,3231.16,5,NULL,STABLE
+1997,10,Meat/Poultry,Tourtière,715.2,3,263.73,171.19,3946.36,4,NULL,GROWING
+1997,12,Meat/Poultry,Tourtière,122.93,4,715.2,-82.81,4069.29,4,NULL,SHARP DECLINE
+1998,1,Meat/Poultry,Tourtière,195.56,1,122.93,59.09,4264.85,5,NULL,GROWING
+1998,2,Meat/Poultry,Tourtière,277.14,2,195.56,41.71,4541.99,4,NULL,GROWING
+1998,4,Meat/Poultry,Tourtière,74.5,1,277.14,-73.12,4616.49,5,NULL,SHARP DECLINE
+1998,5,Meat/Poultry,Tourtière,111.75,1,74.5,50,4728.24,4,NULL,GROWING
+1996,7,Produce,Longlife Tofu,384,2,NULL,NULL,384,2,TOP 3,NULL
+1996,12,Produce,Longlife Tofu,648,3,384,68.75,1032,4,NULL,GROWING
+1997,1,Produce,Longlife Tofu,120,1,648,-81.48,1152,3,TOP 3,SHARP DECLINE
+1997,2,Produce,Longlife Tofu,240,1,120,100,1392,3,TOP 3,GROWING
+1997,3,Produce,Longlife Tofu,128,1,240,-46.67,1520,5,NULL,SHARP DECLINE
+1997,11,Produce,Longlife Tofu,50,1,128,-60.94,1570,4,NULL,SHARP DECLINE
+1997,12,Produce,Longlife Tofu,462.5,2,50,825,2032.5,4,NULL,GROWING
+1998,1,Produce,Longlife Tofu,200,1,462.5,-56.76,2232.5,3,TOP 3,SHARP DECLINE
+1998,4,Produce,Longlife Tofu,200,1,200,0,2432.5,4,NULL,STABLE
+1996,7,Produce,Manjimup Dried Apples,2957.4,2,NULL,NULL,2957.4,1,TOP 3,NULL
+1996,8,Produce,Manjimup Dried Apples,76.32,1,2957.4,-97.42,3033.72,2,TOP 3,SHARP DECLINE
+1996,10,Produce,Manjimup Dried Apples,1628.16,1,76.32,2033.33,4661.88,1,TOP 3,GROWING
+1996,11,Produce,Manjimup Dried Apples,848,1,1628.16,-47.92,5509.88,2,TOP 3,SHARP DECLINE
+1996,12,Produce,Manjimup Dried Apples,648.72,1,848,-23.5,6158.6,3,TOP 3,SHARP DECLINE
+1997,3,Produce,Manjimup Dried Apples,1950.4,3,648.72,200.65,8109,1,TOP 3,GROWING
+1997,5,Produce,Manjimup Dried Apples,2480.4,2,1950.4,27.17,10589.4,1,TOP 3,GROWING
+1997,6,Produce,Manjimup Dried Apples,4717,4,2480.4,90.17,15306.4,1,TOP 3,GROWING
+1997,8,Produce,Manjimup Dried Apples,795,1,4717,-83.15,16101.4,3,TOP 3,SHARP DECLINE
+1997,9,Produce,Manjimup Dried Apples,2067,2,795,160,18168.4,1,TOP 3,GROWING
+1997,10,Produce,Manjimup Dried Apples,1855,2,2067,-10.26,20023.4,3,TOP 3,DECLINING
+1997,11,Produce,Manjimup Dried Apples,1510.5,1,1855,-18.57,21533.9,1,TOP 3,DECLINING
+1997,12,Produce,Manjimup Dried Apples,9195.5,4,1510.5,508.77,30729.4,1,TOP 3,GROWING
+1998,1,Produce,Manjimup Dried Apples,636,3,9195.5,-93.08,31365.4,2,TOP 3,SHARP DECLINE
+1998,2,Produce,Manjimup Dried Apples,106,1,636,-83.33,31471.4,3,TOP 3,SHARP DECLINE
+1998,3,Produce,Manjimup Dried Apples,3922,4,106,3600,35393.4,2,TOP 3,GROWING
+1998,4,Produce,Manjimup Dried Apples,6426.25,6,3922,63.85,41819.65,1,TOP 3,GROWING
+1996,8,Produce,Rössle Sauerkraut,728,1,NULL,NULL,728,1,TOP 3,NULL
+1996,9,Produce,Rössle Sauerkraut,1164.8,2,728,60,1892.8,1,TOP 3,GROWING
+1996,10,Produce,Rössle Sauerkraut,509.6,1,1164.8,-56.25,2402.4,2,TOP 3,SHARP DECLINE
+1996,11,Produce,Rössle Sauerkraut,1517.88,2,509.6,197.86,3920.28,1,TOP 3,GROWING
+1996,12,Produce,Rössle Sauerkraut,837.2,2,1517.88,-44.84,4757.48,2,TOP 3,SHARP DECLINE
+1997,1,Produce,Rössle Sauerkraut,1375.92,1,837.2,64.35,6133.4,1,TOP 3,GROWING
+1997,2,Produce,Rössle Sauerkraut,2074.8,3,1375.92,50.79,8208.2,1,TOP 3,GROWING
+1997,3,Produce,Rössle Sauerkraut,655.2,1,2074.8,-68.42,8863.4,3,TOP 3,SHARP DECLINE
+1997,4,Produce,Rössle Sauerkraut,2991.36,4,655.2,356.56,11854.76,1,TOP 3,GROWING
+1997,5,Produce,Rössle Sauerkraut,319.2,1,2991.36,-89.33,12173.96,2,TOP 3,SHARP DECLINE
+1997,8,Produce,Rössle Sauerkraut,1881,3,319.2,489.29,14054.96,1,TOP 3,GROWING
+1997,10,Produce,Rössle Sauerkraut,2462.4,1,1881,30.91,16517.36,2,TOP 3,GROWING
+1997,11,Produce,Rössle Sauerkraut,1094.4,2,2462.4,-55.56,17611.76,2,TOP 3,SHARP DECLINE
+1997,12,Produce,Rössle Sauerkraut,1094.4,1,1094.4,0,18706.16,3,TOP 3,STABLE
+1998,2,Produce,Rössle Sauerkraut,136.8,1,1094.4,-87.5,18842.96,2,TOP 3,SHARP DECLINE
+1998,3,Produce,Rössle Sauerkraut,2599.2,4,136.8,1800,21442.16,3,TOP 3,GROWING
+1998,4,Produce,Rössle Sauerkraut,3944.4,2,2599.2,51.75,25386.56,2,TOP 3,GROWING
+1998,5,Produce,Rössle Sauerkraut,310.08,1,3944.4,-92.14,25696.64,3,TOP 3,SHARP DECLINE
+1996,7,Produce,Tofu,167.4,1,NULL,NULL,167.4,4,NULL,NULL
+1996,10,Produce,Tofu,353.4,2,167.4,111.11,520.8,3,TOP 3,GROWING
+1996,12,Produce,Tofu,864.9,2,353.4,144.74,1385.7,1,TOP 3,GROWING
+1997,1,Produce,Tofu,1209,3,864.9,39.78,2594.7,2,TOP 3,GROWING
+1997,3,Produce,Tofu,223.2,1,1209,-81.54,2817.9,4,NULL,SHARP DECLINE
+1997,4,Produce,Tofu,1627.5,1,223.2,629.17,4445.4,2,TOP 3,GROWING
+1997,6,Produce,Tofu,1106.7,3,1627.5,-32,5552.1,2,TOP 3,SHARP DECLINE
+1997,8,Produce,Tofu,558,2,1106.7,-49.58,6110.1,4,NULL,SHARP DECLINE
+1997,9,Produce,Tofu,760.27,2,558,36.25,6870.38,2,TOP 3,GROWING
+1997,11,Produce,Tofu,470.81,2,760.27,-38.07,7341.19,3,TOP 3,SHARP DECLINE
+1997,12,Produce,Tofu,279,1,470.81,-40.74,7620.19,5,NULL,SHARP DECLINE
+1998,5,Produce,Tofu,371.3,2,279,33.08,7991.49,2,TOP 3,GROWING
+1996,7,Produce,Uncle Bob's Organic Dried Pears,360,1,NULL,NULL,360,3,TOP 3,NULL
+1996,12,Produce,Uncle Bob's Organic Dried Pears,192,1,360,-46.67,552,5,NULL,SHARP DECLINE
+1997,2,Produce,Uncle Bob's Organic Dried Pears,364.8,1,192,90,916.8,2,TOP 3,GROWING
+1997,3,Produce,Uncle Bob's Organic Dried Pears,720,1,364.8,97.37,1636.8,2,TOP 3,GROWING
+1997,4,Produce,Uncle Bob's Organic Dried Pears,1275,1,720,77.08,2911.8,3,TOP 3,GROWING
+1997,5,Produce,Uncle Bob's Organic Dried Pears,300,1,1275,-76.47,3211.8,3,TOP 3,SHARP DECLINE
+1997,7,Produce,Uncle Bob's Organic Dried Pears,1650,2,300,450,4861.8,1,TOP 3,GROWING
+1997,8,Produce,Uncle Bob's Organic Dried Pears,1050,1,1650,-36.36,5911.8,2,TOP 3,SHARP DECLINE
+1997,10,Produce,Uncle Bob's Organic Dried Pears,2700,1,1050,157.14,8611.8,1,TOP 3,GROWING
+1997,12,Produce,Uncle Bob's Organic Dried Pears,1126.5,2,2700,-58.28,9738.3,2,TOP 3,SHARP DECLINE
+1998,1,Produce,Uncle Bob's Organic Dried Pears,690,2,1126.5,-38.75,10428.3,1,TOP 3,SHARP DECLINE
+1998,2,Produce,Uncle Bob's Organic Dried Pears,930,2,690,34.78,11358.3,1,TOP 3,GROWING
+1998,3,Produce,Uncle Bob's Organic Dried Pears,6510,7,930,600,17868.3,1,TOP 3,GROWING
+1998,4,Produce,Uncle Bob's Organic Dried Pears,3720,4,6510,-42.86,21588.3,3,TOP 3,SHARP DECLINE
+1998,5,Produce,Uncle Bob's Organic Dried Pears,456,2,3720,-87.74,22044.3,1,TOP 3,SHARP DECLINE
+1996,7,Seafood,Boston Crab Meat,735,1,NULL,NULL,735,2,TOP 3,NULL
+1996,8,Seafood,Boston Crab Meat,1308.3,2,735,78,2043.3,1,TOP 3,GROWING
+1996,9,Seafood,Boston Crab Meat,676.2,2,1308.3,-48.31,2719.5,2,TOP 3,SHARP DECLINE
+1996,11,Seafood,Boston Crab Meat,58.8,1,676.2,-91.3,2778.3,4,NULL,SHARP DECLINE
+1997,1,Seafood,Boston Crab Meat,577.71,2,58.8,882.5,3356.01,1,TOP 3,GROWING
+1997,2,Seafood,Boston Crab Meat,294,1,577.71,-49.11,3650.01,4,NULL,SHARP DECLINE
+1997,3,Seafood,Boston Crab Meat,896.7,4,294,205,4546.71,2,TOP 3,GROWING
+1997,4,Seafood,Boston Crab Meat,460,2,896.7,-48.7,5006.71,4,NULL,SHARP DECLINE
+1997,5,Seafood,Boston Crab Meat,561.2,3,460,22,5567.91,4,NULL,GROWING
+1997,6,Seafood,Boston Crab Meat,956.8,2,561.2,70.49,6524.71,1,TOP 3,GROWING
+1997,7,Seafood,Boston Crab Meat,772.8,1,956.8,-19.23,7297.51,4,NULL,DECLINING
+1997,8,Seafood,Boston Crab Meat,1104,1,772.8,42.86,8401.51,2,TOP 3,GROWING
+1997,9,Seafood,Boston Crab Meat,2535.52,4,1104,129.67,10937.03,1,TOP 3,GROWING
+1997,11,Seafood,Boston Crab Meat,1637.6,4,2535.52,-35.41,12574.63,2,TOP 3,SHARP DECLINE
+1997,12,Seafood,Boston Crab Meat,18.4,1,1637.6,-98.88,12593.03,8,NULL,SHARP DECLINE
+1998,1,Seafood,Boston Crab Meat,1950.4,3,18.4,10500,14543.43,3,TOP 3,GROWING
+1998,2,Seafood,Boston Crab Meat,1895.2,2,1950.4,-2.83,16438.63,3,TOP 3,DECLINING
+1998,3,Seafood,Boston Crab Meat,552,2,1895.2,-70.87,16990.63,6,NULL,SHARP DECLINE
+1998,4,Seafood,Boston Crab Meat,920,3,552,66.67,17910.63,5,NULL,GROWING
+1996,8,Seafood,Carnarvon Tigers,600,1,NULL,NULL,600,3,TOP 3,NULL
+1996,9,Seafood,Carnarvon Tigers,1125,1,600,87.5,1725,1,TOP 3,GROWING
+1996,10,Seafood,Carnarvon Tigers,2550,2,1125,126.67,4275,1,TOP 3,GROWING
+1996,12,Seafood,Carnarvon Tigers,450,1,2550,-82.35,4725,3,TOP 3,SHARP DECLINE
+1997,3,Seafood,Carnarvon Tigers,1500,1,450,233.33,6225,1,TOP 3,GROWING
+1997,4,Seafood,Carnarvon Tigers,1406.25,1,1500,-6.25,7631.25,1,TOP 3,DECLINING
+1997,6,Seafood,Carnarvon Tigers,956.25,1,1406.25,-32,8587.5,2,TOP 3,SHARP DECLINE
+1997,7,Seafood,Carnarvon Tigers,2000,1,956.25,109.15,10587.5,2,TOP 3,GROWING
+1997,8,Seafood,Carnarvon Tigers,5100,4,2000,155,15687.5,1,TOP 3,GROWING
+1997,10,Seafood,Carnarvon Tigers,562.5,1,5100,-88.97,16250,5,NULL,SHARP DECLINE
+1997,11,Seafood,Carnarvon Tigers,2550,2,562.5,353.33,18800,1,TOP 3,GROWING
+1997,12,Seafood,Carnarvon Tigers,1875,1,2550,-26.47,20675,1,TOP 3,SHARP DECLINE
+1998,1,Seafood,Carnarvon Tigers,3046.88,3,1875,62.5,23721.88,2,TOP 3,GROWING
+1998,2,Seafood,Carnarvon Tigers,1562.5,1,3046.88,-48.72,25284.38,4,NULL,SHARP DECLINE
+1998,3,Seafood,Carnarvon Tigers,1012.5,3,1562.5,-35.2,26296.88,4,NULL,SHARP DECLINE
+1998,4,Seafood,Carnarvon Tigers,2875,3,1012.5,183.95,29171.88,1,TOP 3,GROWING
+1996,9,Seafood,Escargots de Bourgogne,286.2,1,NULL,NULL,286.2,4,NULL,NULL
+1996,10,Seafood,Escargots de Bourgogne,254.4,1,286.2,-11.11,540.6,6,NULL,DECLINING
+1996,12,Seafood,Escargots de Bourgogne,837.4,2,254.4,229.17,1378,1,TOP 3,GROWING
+1997,5,Seafood,Escargots de Bourgogne,265,1,837.4,-68.35,1643,7,NULL,SHARP DECLINE
+1997,7,Seafood,Escargots de Bourgogne,397.5,1,265,50,2040.5,7,NULL,GROWING
+1997,8,Seafood,Escargots de Bourgogne,79.5,1,397.5,-80,2120,9,NULL,SHARP DECLINE
+1997,9,Seafood,Escargots de Bourgogne,916.9,2,79.5,1053.33,3036.9,5,NULL,GROWING
+1997,10,Seafood,Escargots de Bourgogne,417.38,2,916.9,-54.48,3454.28,8,NULL,SHARP DECLINE
+1998,1,Seafood,Escargots de Bourgogne,1073.25,2,417.38,157.14,4527.53,5,NULL,GROWING
+1998,2,Seafood,Escargots de Bourgogne,532.65,3,1073.25,-50.37,5060.18,5,NULL,SHARP DECLINE
+1998,3,Seafood,Escargots de Bourgogne,318,1,532.65,-40.3,5378.18,8,NULL,SHARP DECLINE
+1998,4,Seafood,Escargots de Bourgogne,503.5,1,318,58.33,5881.68,8,NULL,GROWING
+1996,7,Seafood,Gravad lax,20.8,1,NULL,NULL,20.8,5,NULL,NULL
+1996,10,Seafood,Gravad lax,582.4,1,20.8,2700,603.2,4,NULL,GROWING
+1997,1,Seafood,Gravad lax,208,1,582.4,-64.29,811.2,4,NULL,SHARP DECLINE
+1997,5,Seafood,Gravad lax,421.2,1,208,102.5,1232.4,6,NULL,GROWING
+1998,1,Seafood,Gravad lax,1248,1,421.2,196.3,2480.4,4,NULL,GROWING
+1998,3,Seafood,Gravad lax,208,1,1248,-83.33,2688.4,11,NULL,SHARP DECLINE
+1996,8,Seafood,Ikura,937.44,2,NULL,NULL,937.44,2,TOP 3,NULL
+1996,11,Seafood,Ikura,595.2,1,937.44,-36.51,1532.64,1,TOP 3,SHARP DECLINE
+1996,12,Seafood,Ikura,396.8,1,595.2,-33.33,1929.44,4,NULL,SHARP DECLINE
+1997,2,Seafood,Ikura,744,2,396.8,87.5,2673.44,1,TOP 3,GROWING
+1997,3,Seafood,Ikura,471.2,1,744,-36.67,3144.64,3,TOP 3,SHARP DECLINE
+1997,4,Seafood,Ikura,471.2,1,471.2,0,3615.84,3,TOP 3,STABLE
+1997,5,Seafood,Ikura,62,1,471.2,-86.84,3677.84,10,NULL,SHARP DECLINE
+1997,6,Seafood,Ikura,155,1,62,150,3832.84,6,NULL,GROWING
+1997,7,Seafood,Ikura,2480,2,155,1500,6312.84,1,TOP 3,GROWING
+1997,8,Seafood,Ikura,418.5,1,2480,-83.13,6731.34,5,NULL,SHARP DECLINE
+1997,9,Seafood,Ikura,1314.4,3,418.5,214.07,8045.74,3,TOP 3,GROWING
+1997,10,Seafood,Ikura,2207.2,4,1314.4,67.92,10252.94,1,TOP 3,GROWING
+1997,12,Seafood,Ikura,1612,3,2207.2,-26.97,11864.94,2,TOP 3,SHARP DECLINE
+1998,1,Seafood,Ikura,3596,3,1612,123.08,15460.94,1,TOP 3,GROWING
+1998,2,Seafood,Ikura,2480,2,3596,-31.03,17940.94,2,TOP 3,SHARP DECLINE
+1998,3,Seafood,Ikura,2263,3,2480,-8.75,20203.94,1,TOP 3,DECLINING
+1998,4,Seafood,Ikura,632.4,1,2263,-72.05,20836.34,6,NULL,SHARP DECLINE
+1998,5,Seafood,Ikura,31,1,632.4,-95.1,20867.34,5,NULL,SHARP DECLINE
+1996,7,Seafood,Inlagd Sill,380,1,NULL,NULL,380,3,TOP 3,NULL
+1996,8,Seafood,Inlagd Sill,456,1,380,20,836,4,NULL,STABLE
+1996,9,Seafood,Inlagd Sill,638.4,2,456,40,1474.4,3,TOP 3,GROWING
+1996,10,Seafood,Inlagd Sill,790.4,2,638.4,23.81,2264.8,3,TOP 3,GROWING
+1996,11,Seafood,Inlagd Sill,288.8,1,790.4,-63.46,2553.6,2,TOP 3,SHARP DECLINE
+1996,12,Seafood,Inlagd Sill,72.96,1,288.8,-74.74,2626.56,8,NULL,SHARP DECLINE
+1997,1,Seafood,Inlagd Sill,68.4,1,72.96,-6.25,2694.96,7,NULL,DECLINING
+1997,5,Seafood,Inlagd Sill,2223,3,68.4,3150,4917.96,1,TOP 3,GROWING
+1997,6,Seafood,Inlagd Sill,475,1,2223,-78.63,5392.96,4,NULL,SHARP DECLINE
+1997,7,Seafood,Inlagd Sill,1344.25,2,475,183,6737.21,3,TOP 3,GROWING
+1997,8,Seafood,Inlagd Sill,285,1,1344.25,-78.8,7022.21,6,NULL,SHARP DECLINE
+1997,9,Seafood,Inlagd Sill,655.5,2,285,130,7677.71,7,NULL,GROWING
+1997,10,Seafood,Inlagd Sill,855,2,655.5,30.43,8532.71,3,TOP 3,GROWING
+1997,11,Seafood,Inlagd Sill,418,2,855,-51.11,8950.71,6,NULL,SHARP DECLINE
+1997,12,Seafood,Inlagd Sill,570,1,418,36.36,9520.71,5,NULL,GROWING
+1998,1,Seafood,Inlagd Sill,712.5,1,570,25,10233.21,6,NULL,GROWING
+1998,2,Seafood,Inlagd Sill,380,1,712.5,-46.67,10613.21,8,NULL,SHARP DECLINE
+1998,3,Seafood,Inlagd Sill,1619.75,3,380,326.25,12232.96,2,TOP 3,GROWING
+1998,4,Seafood,Inlagd Sill,1225.5,3,1619.75,-24.34,13458.46,2,TOP 3,SHARP DECLINE
+1996,7,Seafood,Jack's New England Clam Chowder,333.02,3,NULL,NULL,333.02,4,NULL,NULL
+1996,9,Seafood,Jack's New England Clam Chowder,77,1,333.02,-76.88,410.02,6,NULL,SHARP DECLINE
+1996,10,Seafood,Jack's New England Clam Chowder,241.78,2,77,214,651.8,7,NULL,GROWING
+1996,11,Seafood,Jack's New England Clam Chowder,100.1,1,241.78,-58.6,751.9,3,TOP 3,SHARP DECLINE
+1996,12,Seafood,Jack's New England Clam Chowder,55.44,1,100.1,-44.62,807.34,9,NULL,SHARP DECLINE
+1997,1,Seafood,Jack's New England Clam Chowder,154,1,55.44,177.78,961.34,6,NULL,GROWING
+1997,2,Seafood,Jack's New England Clam Chowder,231,1,154,50,1192.34,5,NULL,GROWING
+1997,4,Seafood,Jack's New England Clam Chowder,945.3,3,231,309.22,2137.64,2,TOP 3,GROWING
+1997,5,Seafood,Jack's New England Clam Chowder,187.21,2,945.3,-80.2,2324.85,8,NULL,SHARP DECLINE
+1997,6,Seafood,Jack's New England Clam Chowder,192.52,2,187.21,2.84,2517.37,5,NULL,STABLE
+1997,9,Seafood,Jack's New England Clam Chowder,1582.6,4,192.52,722.06,4099.97,2,TOP 3,GROWING
+1997,10,Seafood,Jack's New England Clam Chowder,521.1,2,1582.6,-67.07,4621.07,6,NULL,SHARP DECLINE
+1997,11,Seafood,Jack's New England Clam Chowder,453.55,2,521.1,-12.96,5074.62,5,NULL,DECLINING
+1997,12,Seafood,Jack's New England Clam Chowder,689.97,4,453.55,52.13,5764.6,4,NULL,GROWING
+1998,1,Seafood,Jack's New England Clam Chowder,501.8,3,689.97,-27.27,6266.4,7,NULL,SHARP DECLINE
+1998,2,Seafood,Jack's New England Clam Chowder,472.85,3,501.8,-5.77,6739.25,6,NULL,DECLINING
+1998,3,Seafood,Jack's New England Clam Chowder,383.11,4,472.85,-18.98,7122.35,7,NULL,DECLINING
+1998,4,Seafood,Jack's New England Clam Chowder,940.39,4,383.11,145.47,8062.74,4,NULL,GROWING
+1998,5,Seafood,Jack's New England Clam Chowder,617.6,4,940.39,-34.33,8680.34,1,TOP 3,SHARP DECLINE
+1996,8,Seafood,Konbu,134.4,2,NULL,NULL,134.4,6,NULL,NULL
+1996,10,Seafood,Konbu,57.6,1,134.4,-57.14,192,8,NULL,SHARP DECLINE
+1996,12,Seafood,Konbu,230.4,3,57.6,300,422.4,6,NULL,GROWING
+1997,1,Seafood,Konbu,8.64,1,230.4,-96.25,431.04,8,NULL,SHARP DECLINE
+1997,3,Seafood,Konbu,4.8,1,8.64,-44.44,435.84,8,NULL,SHARP DECLINE
+1997,4,Seafood,Konbu,60,1,4.8,1150,495.84,8,NULL,GROWING
+1997,5,Seafood,Konbu,108,2,60,80,603.84,9,NULL,GROWING
+1997,7,Seafood,Konbu,403.2,2,108,273.33,1007.04,6,NULL,GROWING
+1997,8,Seafood,Konbu,66.3,1,403.2,-83.56,1073.34,10,NULL,SHARP DECLINE
+1997,11,Seafood,Konbu,60,2,66.3,-9.5,1133.34,9,NULL,DECLINING
+1997,12,Seafood,Konbu,102,1,60,70,1235.34,7,NULL,GROWING
+1998,1,Seafood,Konbu,483.9,5,102,374.41,1719.24,9,NULL,GROWING
+1998,2,Seafood,Konbu,429.6,3,483.9,-11.22,2148.84,7,NULL,DECLINING
+1998,3,Seafood,Konbu,1584.6,8,429.6,268.85,3733.44,3,TOP 3,GROWING
+1998,4,Seafood,Konbu,1146,5,1584.6,-27.68,4879.44,3,TOP 3,SHARP DECLINE
+1998,5,Seafood,Konbu,81,2,1146,-92.93,4960.44,3,TOP 3,SHARP DECLINE
+1996,7,Seafood,Nord-Ost Matjeshering,931.5,1,NULL,NULL,931.5,1,TOP 3,NULL
+1996,8,Seafood,Nord-Ost Matjeshering,124.2,1,931.5,-86.67,1055.7,7,NULL,SHARP DECLINE
+1996,9,Seafood,Nord-Ost Matjeshering,207,1,124.2,66.67,1262.7,5,NULL,GROWING
+1996,10,Seafood,Nord-Ost Matjeshering,1047.42,3,207,406,2310.12,2,TOP 3,GROWING
+1996,12,Seafood,Nord-Ost Matjeshering,335.34,1,1047.42,-67.98,2645.46,5,NULL,SHARP DECLINE
+1997,1,Seafood,Nord-Ost Matjeshering,372.6,1,335.34,11.11,3018.06,2,TOP 3,STABLE
+1997,2,Seafood,Nord-Ost Matjeshering,434.7,1,372.6,16.67,3452.76,2,TOP 3,STABLE
+1997,3,Seafood,Nord-Ost Matjeshering,165.6,1,434.7,-61.9,3618.36,6,NULL,SHARP DECLINE
+1997,4,Seafood,Nord-Ost Matjeshering,414.24,1,165.6,150.14,4032.6,5,NULL,GROWING
+1997,5,Seafood,Nord-Ost Matjeshering,906.15,3,414.24,118.75,4938.75,2,TOP 3,GROWING
+1997,6,Seafood,Nord-Ost Matjeshering,517.8,1,906.15,-42.86,5456.55,3,TOP 3,SHARP DECLINE
+1997,8,Seafood,Nord-Ost Matjeshering,776.7,1,517.8,50,6233.25,3,TOP 3,GROWING
+1997,9,Seafood,Nord-Ost Matjeshering,38.83,1,776.7,-95,6272.09,8,NULL,SHARP DECLINE
+1997,10,Seafood,Nord-Ost Matjeshering,58.25,1,38.83,50,6330.34,9,NULL,GROWING
+1997,11,Seafood,Nord-Ost Matjeshering,1553.4,3,58.25,2566.67,7883.74,3,TOP 3,GROWING
+1997,12,Seafood,Nord-Ost Matjeshering,796.12,2,1553.4,-48.75,8679.86,3,TOP 3,SHARP DECLINE
+1998,1,Seafood,Nord-Ost Matjeshering,491.91,1,796.12,-38.21,9171.77,8,NULL,SHARP DECLINE
+1998,2,Seafood,Nord-Ost Matjeshering,2983.82,4,491.91,506.58,12155.59,1,TOP 3,GROWING
+1998,3,Seafood,Nord-Ost Matjeshering,802.59,2,2983.82,-73.1,12958.18,5,NULL,SHARP DECLINE
+1998,4,Seafood,Nord-Ost Matjeshering,388.35,1,802.59,-51.61,13346.53,9,NULL,SHARP DECLINE
+1998,5,Seafood,Nord-Ost Matjeshering,77.67,1,388.35,-80,13424.2,4,NULL,SHARP DECLINE
+1996,8,Seafood,Röd Kaviar,300,1,NULL,NULL,300,5,NULL,NULL
+1997,1,Seafood,Röd Kaviar,216,1,300,-28,516,3,TOP 3,SHARP DECLINE
+1997,3,Seafood,Röd Kaviar,192,1,216,-11.11,708,5,NULL,DECLINING
+1997,5,Seafood,Röd Kaviar,477,2,192,148.44,1185,5,NULL,GROWING
+1997,6,Seafood,Röd Kaviar,45,1,477,-90.57,1230,7,NULL,SHARP DECLINE
+1997,7,Seafood,Röd Kaviar,450,1,45,900,1680,5,NULL,GROWING
+1997,8,Seafood,Röd Kaviar,446.25,1,450,-0.83,2126.25,4,NULL,DECLINING
+1997,9,Seafood,Röd Kaviar,750,1,446.25,68.07,2876.25,6,NULL,GROWING
+1997,10,Seafood,Röd Kaviar,716.25,2,750,-4.5,3592.5,4,NULL,DECLINING
+1997,11,Seafood,Röd Kaviar,225,1,716.25,-68.59,3817.5,8,NULL,SHARP DECLINE
+1998,2,Seafood,Röd Kaviar,150,1,225,-33.33,3967.5,10,NULL,SHARP DECLINE
+1998,5,Seafood,Röd Kaviar,29.7,1,150,-80.2,3997.2,6,NULL,SHARP DECLINE
+1996,12,Seafood,Rogede sild,91.2,1,NULL,NULL,91.2,7,NULL,NULL
+1997,3,Seafood,Rogede sild,205.2,1,91.2,125,296.4,4,NULL,GROWING
+1997,4,Seafood,Rogede sild,199.5,1,205.2,-2.78,495.9,6,NULL,DECLINING
+1997,5,Seafood,Rogede sild,807.5,1,199.5,304.76,1303.4,3,TOP 3,GROWING
+1997,8,Seafood,Rogede sild,190,1,807.5,-76.47,1493.4,8,NULL,SHARP DECLINE
+1997,10,Seafood,Rogede sild,1045,1,190,450,2538.4,2,TOP 3,GROWING
+1997,11,Seafood,Rogede sild,665,3,1045,-36.36,3203.4,4,NULL,SHARP DECLINE
+1997,12,Seafood,Rogede sild,243.68,1,665,-63.36,3447.08,6,NULL,SHARP DECLINE
+1998,1,Seafood,Rogede sild,273.6,1,243.68,12.28,3720.68,11,NULL,STABLE
+1998,2,Seafood,Rogede sild,142.5,1,273.6,-47.92,3863.18,11,NULL,SHARP DECLINE
+1998,3,Seafood,Rogede sild,285,1,142.5,100,4148.18,10,NULL,GROWING
+1998,4,Seafood,Rogede sild,190,1,285,-33.33,4338.18,10,NULL,SHARP DECLINE
+1996,8,Seafood,Spegesild,122.4,1,NULL,NULL,122.4,8,NULL,NULL
+1996,10,Seafood,Spegesild,288,1,122.4,135.29,410.4,5,NULL,GROWING
+1996,12,Seafood,Spegesild,673.92,2,288,134,1084.32,2,TOP 3,GROWING
+1997,1,Seafood,Spegesild,206.4,2,673.92,-69.37,1290.72,5,NULL,SHARP DECLINE
+1997,2,Seafood,Spegesild,307.2,3,206.4,48.84,1597.92,3,TOP 3,GROWING
+1997,3,Seafood,Spegesild,48,1,307.2,-84.37,1645.92,7,NULL,SHARP DECLINE
+1997,4,Seafood,Spegesild,91.8,1,48,91.25,1737.72,7,NULL,GROWING
+1997,8,Seafood,Spegesild,244.8,2,91.8,166.67,1982.52,7,NULL,GROWING
+1997,9,Seafood,Spegesild,1260,2,244.8,414.71,3242.52,4,NULL,GROWING
+1997,10,Seafood,Spegesild,504,2,1260,-60,3746.52,7,NULL,SHARP DECLINE
+1997,11,Seafood,Spegesild,319.2,1,504,-36.67,4065.72,7,NULL,SHARP DECLINE
+1998,1,Seafood,Spegesild,420,1,319.2,31.58,4485.72,10,NULL,GROWING
+1998,2,Seafood,Spegesild,252,1,420,-40,4737.72,9,NULL,SHARP DECLINE
+1998,3,Seafood,Spegesild,288,2,252,14.29,5025.72,9,NULL,STABLE
+1998,4,Seafood,Spegesild,516,3,288,79.17,5541.72,7,NULL,GROWING
+1998,5,Seafood,Spegesild,341.28,2,516,-33.86,5883,2,TOP 3,SHARP DECLINE
