@@ -157,10 +157,10 @@ enriched_metrics AS (
 --
 -- TrendAlert  : convierte el análisis descriptivo en accionable.
 --               Umbrales de negocio sugeridos (ajustables según industria):
---                 · Caída fuerte : < -20% respecto al mes anterior
---                 · En descenso  :   0% a -20%
---                 · En crecimiento: > +20%
---                 · Estable      : entre -20% y +20%
+--                 · Caída fuerte (Sharp Decline): < -20% respecto al mes anterior
+--                 · En descenso (Declining) :   0% a -20%
+--                 · En crecimiento (Growing): > +20%
+--                 · Estable (Stable) : entre -20% y +20%
 --               NULL cuando no hay mes anterior (primer mes del producto).
 -- =============================================================================
 SELECT
@@ -183,10 +183,10 @@ SELECT
 
     CASE
         WHEN RevenueGrowthPct IS NULL  THEN NULL
-        WHEN RevenueGrowthPct < -20    THEN 'CAÍDA FUERTE'
-        WHEN RevenueGrowthPct <   0    THEN 'EN DESCENSO'
-        WHEN RevenueGrowthPct >  20    THEN 'EN CRECIMIENTO'
-        ELSE                                'ESTABLE'
+        WHEN RevenueGrowthPct < -20    THEN 'SHARP DECLINE'
+        WHEN RevenueGrowthPct <   0    THEN 'DECLINING'
+        WHEN RevenueGrowthPct >  20    THEN 'GROWING'
+        ELSE                                'STABLE'
     END                             AS TrendAlert
 
 FROM enriched_metrics
