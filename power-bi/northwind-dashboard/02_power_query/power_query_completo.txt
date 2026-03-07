@@ -1,0 +1,163 @@
+/* ============================================================
+   PROYECTO  : Northwind
+   ARCHIVO   : power_query_completo.txt
+   FECHA     : 2026-03-07
+   VERSION   : 1.0
+   DESC      : Código M completo del modelo Power BI.
+               Contiene parámetros, conexión base, dimensiones
+               y tabla de hechos conectados a SQL Server.
+
+   ESTRUCTURA:
+     1. Parámetros     → PRM_Servidor, PRM_BaseDatos
+     2. Conexión base  → CNX_SqlServer      [Enable Load = OFF]
+     3. Dimensiones    → Dim_Category, Dim_Customer, Dim_Product
+     4. Hechos         → Fact_Sales
+
+   CONVENCIÓN DE NOMBRES DE STEPS:
+     Source       → conexión o referencia al query origen
+     Navegacion   → acceso a la vista específica en SQL Server
+     ColumnasSel  → selección de columnas (solo en Fact)
+     TiposCambiad → ajuste de tipos de dato finales
+   ============================================================ */
+
+
+/* ------------------------------------------------------------
+   SECCIÓN 1: PARÁMETROS
+
+   Centraliza la configuración de entorno.
+   Si el servidor o base de datos cambia, solo se modifica aquí.
+   Afecta automáticamente todas las queries que usan CNX_SqlServer.
+   ------------------------------------------------------------ */
+
+// QUERY        : PRM_Servidor
+// TIPO         : Parámetro de texto
+// DESC         : Nombre o IP del servidor SQL Server
+// ENABLE LOAD  : No (parámetro)
+// CARPETA PQ   : _Parametros
+"localhost" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+
+
+// QUERY        : PRM_BaseDatos
+// TIPO         : Parámetro de texto
+// DESC         : Nombre de la base de datos origen
+// ENABLE LOAD  : No (parámetro)
+// CARPETA PQ   : _Parametros
+"Northwind" meta [IsParameterQuery=true, Type="Text", IsParameterQueryRequired=true]
+
+
+/* ------------------------------------------------------------
+   SECCIÓN 2: CONEXIÓN BASE
+
+   Query raíz reutilizado por todas las dimensiones y hechos.
+   IMPORTANTE: Enable Load debe estar en OFF para que no genere
+   una tabla vacía en el modelo semántico.
+   ------------------------------------------------------------ */
+
+// QUERY        : CNX_SqlServer
+// TIPO         : Conexión base
+// DESC         : Conexión raíz a SQL Server usando los parámetros
+//                PRM_Servidor y PRM_BaseDatos. Todas las demás
+//                queries la referencian como punto de entrada.
+// ENABLE LOAD  : NO — desactivar en Power Query Editor
+// CARPETA PQ   : _Conexiones
+// CAMBIOS      :
+//   v1.0 - 2026-03-07 - Creación inicial
+let
+    Source = Sql.Database(PRM_Servidor, PRM_BaseDatos)
+in
+    Source
+
+
+/* ------------------------------------------------------------
+   SECCIÓN 3: DIMENSIONES
+
+   Cada query referencia CNX_SqlServer como origen.
+   No contienen lógica de negocio — esa responsabilidad
+   pertenece a las vistas en SQL Server.
+   Solo se realizan ajustes de tipos de dato.
+   ------------------------------------------------------------ */
+
+// QUERY        : Dim_Category
+// TIPO         : Tabla dimension
+// DESC         : Dimensión de categorías de productos.
+// ORIGEN SQL   : dbo.vw_DimCategory
+// ENABLE LOAD  : Sí
+// CARPETA PQ   : Dimensiones
+// CAMBIOS      :
+//   v1.0 - 2026-03-07 - Creación inicial
+let
+    Source             = CNX_SqlServer,
+    Navegacion         = Source{[Schema="dbo", Item="vw_DimCategory"]}[Data]
+in
+    Navegacion
+
+
+// QUERY        : Dim_Customer
+// TIPO         : Tabla dimension
+// DESC         : Dimensión de clientes.
+// ORIGEN SQL   : dbo.vw_DimCustomer
+// ENABLE LOAD  : Sí
+// CARPETA PQ   : Dimensiones
+// CAMBIOS      :
+//   v1.0 - 2026-03-07 - Creación inicial
+let
+    Source             = CNX_SqlServer,
+    Navegacion         = Source{[Schema="dbo", Item="vw_DimCustomer"]}[Data]
+in
+    Navegacion
+
+
+// QUERY        : Dim_Product
+// TIPO         : Tabla dimension
+// DESC         : Dimensión de productos con su categoría asociada.
+// ORIGEN SQL   : dbo.vw_DimProduct
+// ENABLE LOAD  : Sí
+// CARPETA PQ   : Dimensiones
+// CAMBIOS      :
+//   v1.0 - 2026-03-07 - Creación inicial
+let
+    Source             = CNX_SqlServer,
+    Navegacion         = Source{[Schema="dbo", Item="vw_DimProduct"]}[Data]
+in
+    Navegacion
+
+
+/* ------------------------------------------------------------
+   SECCIÓN 4: HECHOS
+
+   Tablas de mayor volumen — siempre al final del refresh.
+   Se aplica selección explícita de columnas para evitar
+   cargar campos innecesarios al modelo y reducir el tamaño
+   del dataset.
+   ------------------------------------------------------------ */
+
+// QUERY        : Fact_Sales
+// TIPO         : Tabla de hechos
+// DESC         : Tabla de hechos de ventas con métricas de
+//                cantidad y revenue neto por orden, cliente,
+//                producto y categoría.
+// ORIGEN SQL   : dbo.vw_FactSales
+// ENABLE LOAD  : Sí
+// CARPETA PQ   : Hechos
+// COLUMNAS     : OrderID, CustomerID, ProductID, CategoryID,
+//                OrderDate, Quantity, NetRevenue
+// NOTAS        : Se usa SelectColumns para cargar solo las
+//                columnas necesarias al modelo. Si se agregan
+//                métricas nuevas a la vista SQL, incluirlas
+//                también en el paso ColumnasSel.
+// CAMBIOS      :
+//   v1.0 - 2026-03-07 - Creación inicial
+let
+    Source             = CNX_SqlServer,
+    Navegacion         = Source{[Schema="dbo", Item="vw_FactSales"]}[Data],
+    ColumnasSel        = Table.SelectColumns(Navegacion, {
+                             "OrderID",
+                             "CustomerID",
+                             "ProductID",
+                             "CategoryID",
+                             "OrderDate",
+                             "Quantity",
+                             "NetRevenue"
+                         })
+in
+    ColumnasSel
